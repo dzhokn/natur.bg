@@ -1,0 +1,208 @@
+{
+  "en": {
+    "nav": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "Products",
+        "path": "/products/"
+      },
+      {
+        "label": "About us",
+        "path": "/about-us/"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact/"
+      }
+    ],
+    "footer": {
+      "menuTitle": "Menu",
+      "menu": [
+        {
+          "label": "Home",
+          "path": "/"
+        },
+        {
+          "label": "Products",
+          "path": "/products/"
+        },
+        {
+          "label": "About us",
+          "path": "/about-us/"
+        },
+        {
+          "label": "Contact",
+          "path": "/contact/"
+        }
+      ],
+      "logo": {
+        "src": "media/originals/2021/06/NATUR-BG_Logo_short.svg",
+        "alt": "natur bg logo"
+      },
+      "tagline": "NATUR BG LTD is a family-run company that produces and exports organic wholegrain products which are vegan certified and made with high-quality ingredients.",
+      "contactsTitle": "Contacts",
+      "address": [
+        "Bulgaria,",
+        "Kazanlak,",
+        "7 St. Nikola St."
+      ],
+      "phonesText": [
+        "+359 876 466 854",
+        "+359 899 494 814",
+        "+359 878 566 854"
+      ],
+      "copyright": "All rights reserved © 2026 Natur BG",
+      "legal": [
+        {
+          "label": "Privacy Policy",
+          "path": "/privacy-policy/"
+        },
+        {
+          "label": "Cookie Policy",
+          "path": "/cookie-policy/"
+        }
+      ],
+      "credit": {
+        "label": "Created by",
+        "name": "web/desh",
+        "href": "https://webdesh.com/"
+      }
+    },
+    "contacts": {
+      "email": "natur@natur.bg",
+      "phones": [
+        "+359876466854",
+        "+359899494814",
+        "+359878566854"
+      ]
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/NaturBG-771542632901596"
+    },
+    "langSwitch": {
+      "label": "BG",
+      "path": "/bg/",
+      "lang": "bg"
+    },
+    "consent": {
+      "text": "We use Google Analytics cookies only if you allow them, to see how the site is used.",
+      "allow": "Allow",
+      "decline": "Decline",
+      "settings": "Cookie settings",
+      "policyLabel": "Cookie Policy",
+      "policyPath": "/cookie-policy/"
+    },
+    "skipLink": "Skip to content",
+    "menuLabel": "Menu",
+    "logo": {
+      "src": "media/originals/2021/05/NATUR_Logo_ENG.png",
+      "alt": "natur logo"
+    }
+  },
+  "bg": {
+    "nav": [
+      {
+        "label": "Начало",
+        "path": "/bg/"
+      },
+      {
+        "label": "Продукти",
+        "path": "/bg/produkti/"
+      },
+      {
+        "label": "За нас",
+        "path": "/bg/za-nas/"
+      },
+      {
+        "label": "Контакти",
+        "path": "/bg/kontakti/"
+      }
+    ],
+    "footer": {
+      "menuTitle": "Меню",
+      "menu": [
+        {
+          "label": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "label": "Продукти",
+          "path": "/bg/produkti/"
+        },
+        {
+          "label": "За нас",
+          "path": "/bg/za-nas/"
+        },
+        {
+          "label": "Контакти",
+          "path": "/bg/kontakti/"
+        }
+      ],
+      "logo": {
+        "src": "media/originals/2021/06/NATUR-BG_Logo_short.svg",
+        "alt": "natur bg logo"
+      },
+      "tagline": "НАТЮР БГ ЕООД е семейна компания, която се занимава с производство и износ на БИО, пълнозърнести продукти, направени с висококачествени съставки и отговарящи на изискванията на веган общността.",
+      "contactsTitle": "Контакти",
+      "address": [
+        "България,",
+        "гр. Казанлък,",
+        "ул. „Свети Никола“ 7"
+      ],
+      "phonesText": [
+        "+359 876 466 854",
+        "+359 899 494 814",
+        "+359 878 566 854"
+      ],
+      "copyright": "Всички права запазени © 2026 Natur BG",
+      "legal": [
+        {
+          "label": "Политика за поверителност",
+          "path": "/bg/politika-za-lichni-danni/"
+        },
+        {
+          "label": "Политика за бисквитки",
+          "path": "/bg/politika-za-biskvitki/"
+        }
+      ],
+      "credit": {
+        "label": "Създаден от",
+        "name": "web/desh",
+        "href": "https://webdesh.com/"
+      }
+    },
+    "contacts": {
+      "email": "natur@natur.bg",
+      "phones": [
+        "+359876466854",
+        "+359899494814",
+        "+359878566854"
+      ]
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/NaturBG-771542632901596"
+    },
+    "langSwitch": {
+      "label": "EN",
+      "path": "/",
+      "lang": "en"
+    },
+    "consent": {
+      "text": "Използваме бисквитки на Google Analytics само ако ги разрешите, за да разберем как се използва сайтът.",
+      "allow": "Разрешавам",
+      "decline": "Отказвам",
+      "settings": "Настройки на бисквитките",
+      "policyLabel": "Политика за бисквитки",
+      "policyPath": "/bg/politika-za-biskvitki/"
+    },
+    "skipLink": "Към съдържанието",
+    "menuLabel": "Меню",
+    "logo": {
+      "src": "media/originals/2021/05/NATUR_Logo_ENG.png",
+      "alt": "natur logo"
+    }
+  }
+}

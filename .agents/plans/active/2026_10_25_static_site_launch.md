@@ -281,7 +281,8 @@ Full rollback (minutes, any time after step 4): step 6, 5 and 4 rollbacks in tha
 
 - Self-review: done 2026-10-25 against the plan-create lens (evidence, alternatives, commands, secrets, rollback, stop gates).
 - Plan-review: round 1 READY_WITH_EDITS (4 High: TLS/certificate cutover, Email Obfuscation, server-side consent proof, repo/CI bootstrap; 2 Medium: www redirect premise, per-step rollback; Lows), all patched; round 2 READY_WITH_EDITS confirmed every round-1 fix and raised 5 Low (PR-checks command, LCP node source, image limit precedence, pre-DNS GitHub smoke, wording/hop list), all patched; reviewer stated no further round needed.
-- Refuted pre-registered metrics: None.
+- Refuted pre-registered metrics: Step 9 inline-CSS trial (home mobile, 3 warmups + 5 interleaved pairs): median simulated LCP 1811 ms external vs 1804 ms inline, IQR 73 ms → refuted, external CSS kept.
+- Implementation (2026-10-25, planner claude:9a7c7213 driving `run.cjs` Sonnet delegates per outcome brief, `--skip-gates` because Catwing's preflight/select-tests gates do not exist in this repo; the plan's own commands were run by hand): deviations, each measured — (1) `tools/lighthouse.mjs` serves `dist/` over HTTP/2+TLS (production protocol; HTTP/1.1 localhost overstated simulated LCP by ~1 s) with `--disable-gpu-vsync --disable-frame-rate-limit` (Windows headless ~1 s frame stall in 5/6 runs); (2) eager phone images split by density: DPR < 2 gets one 1.125x candidate (Lighthouse `image-size-responsive` floor), DPR ≥ 2 keeps ≥ 2x; hero mobile art direction is the live landscape 390x288 box, not a portrait; (3) below-fold images JS-gated (IntersectionObserver 300 px + `<noscript>`), decorative backgrounds JS-applied; (4) dropped live blocks hidden on all devices (`story-home.jpg`), Elementor mobile-only duplicates and the two products-page sliders; (5) Montserrat/Open Sans not loaded (never web fonts live).
 - Open findings:
   - None.
 

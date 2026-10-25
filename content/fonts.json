@@ -1,0 +1,38 @@
+{
+  "families": {
+    "fregat": {
+      "file": "assets/fonts/fregat.b4f2c9b3.woff2",
+      "weight": 400,
+      "style": "normal",
+      "fallback": {
+        "sizeAdjust": 0.988,
+        "ascentOverride": 0.8826,
+        "descentOverride": 0.1903,
+        "lineGapOverride": 0.0263
+      }
+    },
+    "fregat-bold": {
+      "file": "assets/fonts/fregat-bold.a308ca60.woff2",
+      "weight": 400,
+      "style": "normal",
+      "fallback": {
+        "sizeAdjust": 1.0478,
+        "ascentOverride": 0.8389,
+        "descentOverride": 0.1899,
+        "lineGapOverride": 0.0248
+      }
+    },
+    "pf-din": {
+      "file": "assets/fonts/pf-din.510f8313.woff2",
+      "weight": 400,
+      "style": "normal",
+      "fallback": {
+        "sizeAdjust": 0.915,
+        "ascentOverride": 0.8197,
+        "descentOverride": 0.2732,
+        "lineGapOverride": 0.2186
+      }
+    }
+  },
+  "unicodeRange": "U+20-7E, U+A0-FF, U+400-45F, U+2010-2027, U+2116, U+20AC"
+}

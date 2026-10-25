@@ -1,0 +1,152 @@
+/* Shared styles. Colours follow decision D4: green fills carry brown text, green text is #5c811b. */
+:root{--brown:#4c1a02;--green:#9cd537;--green-dark:#7baf42;--green-text:#5c811b;--cream:#fbeedc;--band:#f5e5c7;--orange:#e69d30;--radius:30px;
+--f-body:pf-din,"pf-din fallback",sans-serif;--f-bold:fregat-bold,"fregat-bold fallback",sans-serif;--f-reg:fregat,"fregat fallback",sans-serif}
+*,*::before,*::after{box-sizing:border-box}
+html{font-size:112.5%;-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;background:#fff;color:var(--brown);font-family:var(--f-body);line-height:1.4;overflow-x:hidden}
+@media (max-width:1024px){body{line-height:1.3}}
+img,svg{max-width:100%;height:auto}
+picture{display:contents}
+h1,h2,h3,h4,h5,h6{margin:0 0 .5em;font-family:var(--f-bold);font-weight:400;line-height:1.2;color:var(--brown)}
+h1{font-size:clamp(2rem,6.5vw + .5rem,2.88rem);line-height:1.1}
+h2,.h2{font-size:clamp(1.75rem,4vw + .7rem,2.61rem)}
+h3,.h3{font-size:clamp(1.35rem,2vw + 1rem,1.77rem)}
+h4,.h4{font-size:1.4rem}
+h5,.h5{font-size:1.22rem}
+h6,.h6{font-size:1rem}
+.h2{font-family:var(--f-bold)}
+p{margin:0 0 1em}
+a{color:var(--brown)}
+a:hover{color:var(--green-text)}
+:focus-visible{outline:3px solid var(--brown);outline-offset:3px;border-radius:4px}
+ul{padding:0}
+.vh{position:absolute!important;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+.skip{position:absolute;left:8px;top:-100px;z-index:100;background:#fff;padding:10px 16px;border:2px solid var(--brown)}
+.skip:focus{top:8px}
+main:focus{outline:0}
+
+/* Buttons */
+.btn,.consent button{display:inline-block;min-height:44px;padding:11px 22px;border:2px solid var(--green);border-radius:50px;background:var(--green);color:var(--brown);font:600 1rem/1.2 var(--f-bold);text-align:center;text-decoration:none;cursor:pointer;transition:background-color .2s,border-color .2s}
+.btn:hover,.consent button:hover{background:var(--green-dark);border-color:var(--green-dark);color:var(--brown)}
+
+/* Header: logo left, menu button right on mobile; logo centred between two link groups on desktop */
+.site-header{position:relative;z-index:20;background:#fff}
+.bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;max-width:1240px;margin:0 auto;padding:0 20px;min-height:72px}
+.logo{display:block;width:120px;line-height:0}
+.logo img{width:120px;height:auto}
+.menu-btn{display:none;order:3;width:48px;height:48px;padding:0;border:0;background:none;color:var(--brown);cursor:pointer;align-items:center;justify-content:center}
+.menu-btn svg{width:28px;height:28px}
+html.js .menu-btn{display:inline-flex}
+nav{flex-basis:100%;order:4}
+nav ul{display:block;margin:0;padding:0;list-style:none}
+nav a{display:block;padding:12px 0;color:var(--brown);font:600 1rem/1.2 var(--f-bold);text-decoration:none}
+nav a:hover{color:var(--green-text)}
+nav a[aria-current=page]{color:var(--green-text)}
+@media (max-width:920px){
+  .menu-btn[aria-expanded]{margin-right:-10px}
+  html.js .site-header:not([data-open]) nav{flex-basis:auto;order:2;margin-left:auto}
+  html.js .site-header:not([data-open]) .nav-l,html.js .site-header:not([data-open]) .nav-r li:not(.lang){display:none}
+  html.js .site-header:not([data-open]) .nav-r a{padding:12px 10px}
+  .site-header[data-open] nav{border-top:1px solid var(--band);padding-bottom:10px}
+}
+@media (min-width:921px){
+  .bar{position:relative;flex-wrap:nowrap;min-height:88px}
+  .logo{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%)}
+  .menu-btn,html.js .menu-btn{display:none}
+  nav{order:0;display:grid;grid-template-columns:1fr 150px 1fr;width:100%}
+  nav ul{display:flex}
+  .nav-l{grid-column:1;justify-self:end}
+  .nav-r{grid-column:3;justify-self:start}
+  nav a{padding:10px 16px}
+}
+
+/* Footer */
+.site-footer{background:var(--orange);color:var(--brown);font-size:1rem;line-height:1.35}
+.site-footer a{color:var(--brown);text-decoration:none}
+.site-footer a:hover,.site-footer a:focus-visible{color:var(--brown);text-decoration:underline}
+.f-grid{display:grid;gap:28px;max-width:1200px;margin:0 auto;padding:44px 20px 36px;text-align:center}
+.f-title{font:400 1.3rem/1.2 var(--f-reg);margin:0 0 14px}
+.f-menu ul{margin:0;list-style:none}
+.f-menu a,.f-contact a{display:inline-block;padding:3px 0}
+.f-brand img{width:400px;max-width:100%;height:auto}
+.f-brand p{max-width:300px;margin:34px auto 0}
+.f-contact p{margin:0 0 12px}
+.f-fb{width:40px;height:40px;padding:8px!important}
+.f-fb svg{width:24px;height:24px;display:block}
+.f-bar{border-top:1px solid rgba(76,26,2,.25);padding:14px 20px 18px;text-align:center;font-size:.9rem}
+.f-bar p{margin:0 0 4px}
+.cookie-settings{padding:4px 2px;border:0;background:none;color:inherit;font:inherit;text-decoration:none;cursor:pointer}
+.cookie-settings:hover,.cookie-settings:focus-visible{text-decoration:underline}
+@media (min-width:768px){
+  .f-grid{grid-template-columns:1fr 1.2fr 1fr;text-align:left;align-items:start}
+  .f-contact{text-align:right}
+  .f-contact .f-fb{margin-left:auto;display:flex}
+}
+
+/* Consent bar: compact, non-modal, never above 140px at a 412px viewport */
+.consent{position:fixed;left:0;right:0;bottom:0;z-index:50;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:8px 20px;max-height:140px;overflow:auto;padding:10px 14px;background:#fff;color:var(--brown);border-top:3px solid var(--green);box-shadow:0 -4px 16px rgba(0,0,0,.14);font-size:.8rem;line-height:1.3}
+.consent p{margin:0;max-width:640px}
+.consent-actions{display:flex;gap:8px;flex:1 1 200px;max-width:320px}
+.consent button{flex:1;min-height:40px;padding:8px 14px;font-size:.9rem}
+html[data-consent]:not(.consent-open) .consent{display:none}
+
+/* Images and decorative backgrounds. Backgrounds stay off until site.js adds .bg-in. */
+.bg{background-position:var(--bgp,center);background-size:var(--bgs,cover);background-repeat:no-repeat}
+.bg-in.bg{background-image:var(--bg-m)}
+.ov{position:relative;isolation:isolate}
+.ov::before{content:"";position:absolute;inset:0;z-index:-1;opacity:var(--bgo,.5);background-position:var(--bgp,center);background-size:var(--bgs,cover);background-repeat:no-repeat;pointer-events:none}
+.ov.bg-in::before{background-image:var(--bg-m)}
+@media (min-width:768px){.bg-in.bg{background-image:var(--bg-t)}.ov.bg-in::before{background-image:var(--bg-t)}}
+@media (min-width:1200px){.bg-in.bg{background-image:var(--bg-d)}.ov.bg-in::before{background-image:var(--bg-d)}}
+
+/* JS-gated images have no src yet: keep the box from width/height and hide the alt text. */
+picture.lz img{color:transparent;font-size:0}
+
+/* Reveal on scroll: only below the fold, never without JS */
+.reveal{transition:opacity .6s ease,transform .6s ease}
+html.js .reveal:not(.in){opacity:0;transform:translateY(24px)}
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .reveal,.flip-back,.btn{transition:none}
+  html.js .reveal:not(.in){opacity:1;transform:none}
+}
+
+/* Layout helpers shared by every template */
+main>section{position:relative;padding:44px 20px}
+.cols{display:flex;flex-direction:column;gap:24px;max-width:1200px;margin:0 auto}
+.col>:last-child{margin-bottom:0}
+@media (min-width:768px){
+  main>section{padding:60px 30px}
+  .cols{flex-direction:row;flex-wrap:wrap}
+  .col-50{flex:1 1 calc(50% - 12px)}
+  .col-33{flex:1 1 calc(33.33% - 16px)}
+}
+.inner{max-width:1200px;margin:0 auto}
+.cta{text-align:center}
+.cta .cols{align-items:center}
+.cta h3{margin:0}
+.cta p{margin:0}
+section.cta{background:var(--band);--sc:var(--band)}
+.benefits::before,.features::before,.profile::before,section.cta:not(.ov)::before{content:"";position:absolute;left:0;right:0;top:-8px;height:8px;background:radial-gradient(circle at 8px 8px,var(--sc,var(--cream)) 6px,transparent 6.5px) 0 0/16px 8px repeat-x}
+.features::after{content:"";position:absolute;left:0;right:0;bottom:-8px;height:8px;background:radial-gradient(circle at 8px 0,var(--cream) 6px,transparent 6.5px) 0 0/16px 8px repeat-x}
+.leaf{padding:0!important;text-align:center;line-height:0;height:0;overflow:visible;z-index:2}
+.leaf img{position:relative;top:-20px;width:120px;height:auto}
+.logos{max-width:1200px;margin:0 auto;font-size:.8rem;line-height:1.5}
+.logos img{display:block;width:100%;max-width:900px;margin:0 auto 20px;height:auto}
+
+/* Package cards (home listing, products listing, related products) */
+.product-cards{display:grid;gap:36px 24px;grid-template-columns:1fr;max-width:1200px;margin:0 auto;padding:0;list-style:none;text-align:center}
+.product-cards li{display:flex;flex-direction:column;align-items:center;gap:12px}
+.card-img{display:block;line-height:0}
+.card-img img{width:100%;max-width:280px;height:auto}
+.product-cards h2,.product-cards h3{margin:0;font-size:1.4rem}
+.product-cards h2 a,.product-cards h3 a{text-decoration:none}
+@media (min-width:600px){.product-cards{grid-template-columns:repeat(2,1fr)}}
+@media (min-width:900px){.product-cards{grid-template-columns:repeat(3,1fr)}}
+
+/* Flip boxes: the back shows on hover or focus; without hover support the box simply shows its front */
+.flip{position:relative;height:100%;border-radius:var(--radius);overflow:hidden}
+.flip img{display:block}
+.flip-back{position:absolute;inset:0;overflow:auto;padding:22px;background:rgba(76,26,2,.94);color:#fff;font-size:.95rem;line-height:1.35;opacity:0;visibility:hidden;transition:opacity .35s ease,visibility .35s}
+.flip-back p{margin:0 0 .7em}
+.flip:hover .flip-back,.flip:focus .flip-back,.flip:focus-within .flip-back{opacity:1;visibility:visible}

@@ -1,0 +1,86 @@
+/* Products listing, about, contact, legal and 404 templates */
+/* About and contact heroes (post-5348 b5d7395, post-4334 d93079e): 45vh, 35px 0 corners. The live
+   photo is fixed-attached at >= 1025 px, so a different slice of the frame shows; the object
+   positions below reproduce that slice at the top of the page. */
+.hero:not(.hero-art){position:relative;isolation:isolate;overflow:hidden;display:flex;align-items:center;justify-content:center;min-height:45vh;padding:0 20px;background-color:var(--brown);border-radius:35px 0 35px 0;text-align:center}
+.hero:not(.hero-art) h1{margin:0;color:#fff;font-size:2.22rem;line-height:1.1;text-shadow:0 2px 12px rgba(0,0,0,.55)}
+.hero-photo,.hero-photo picture,.hero-photo img{position:absolute;inset:0;width:100%;height:100%}
+.hero-photo{z-index:-1}
+.hero-photo img{object-fit:cover;object-position:var(--op,center)}
+.hero-contact::after{content:"";position:absolute;inset:0;z-index:-1;background:var(--brown);opacity:.07}
+@media (max-width:767px){.hero-about{min-height:25vh}.hero-contact{min-height:30vh}}
+@media (min-width:768px){.hero:not(.hero-art) h1{font-size:3.44rem}}
+@media (min-width:1025px){
+  .hero:not(.hero-art) h1{font-size:4rem}
+  .hero-about .hero-photo img{object-position:50% 19%}
+  .hero-contact .hero-photo img{object-position:50% 16%}
+}
+
+.listing{padding-bottom:70px!important}
+.listing h1{margin-bottom:1em;text-align:center}
+@media (min-width:768px){.listing .product-cards{grid-template-columns:repeat(3,1fr)}}
+@media (min-width:1025px){.listing .product-cards{grid-template-columns:repeat(4,1fr)}}
+
+.team .cols{display:grid;grid-template-columns:minmax(0,1fr);gap:36px;max-width:950px;margin-inline:auto}
+@media (min-width:600px){.team .cols{grid-template-columns:repeat(2,minmax(0,1fr));gap:75px 50px}}
+.team .col{display:block;min-width:0;text-align:left;overflow-wrap:anywhere}
+/* site.css gives .flip height:100% of the grid cell, which grew the photo over the captions. */
+.team .flip{height:auto;aspect-ratio:3/2;overflow:hidden;border-radius:16px;background:var(--cream)}
+.team .flip img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.team .flip-back{display:flex;flex-direction:column;justify-content:center}
+.team h2{margin:.7em 0 .2em;font-size:1.55rem}
+.team .role{margin:0;font:600 .9rem/1.2 var(--f-bold)}
+.team{padding-top:30px!important;padding-bottom:30px!important}
+
+.features{display:grid;gap:34px;background:var(--cream);padding-inline:max(20px,calc((100% - 1200px)/2))!important;padding-block:50px!important}
+.icon-box{padding:0 10px;text-align:center}
+.icon-box .value-icon{display:block;width:100px;height:100px;margin:0 auto 14px}
+.icon-box h2{margin-bottom:.4em;font-size:1.55rem}
+.icon-box p{max-width:320px;margin:0 auto}
+@media (min-width:768px){.features{grid-template-columns:repeat(3,1fr)}}
+
+.story:not(:has(.cols)){max-width:1200px;margin:0 auto}
+.story h2{text-align:center}
+@media (min-width:768px){.story:not(:has(.cols)){columns:2;column-gap:30px}.story:not(:has(.cols))>h2{column-span:all}}
+.profile{display:flex;background:var(--cream);flex-wrap:wrap;gap:30px;align-items:stretch;padding-inline:max(20px,calc((100% - 1200px)/2))!important}
+.profile .col{flex:1 1 320px}
+.profile-photo{min-height:260px;border-radius:var(--radius);background-color:var(--cream)}
+section.cta .cols{max-width:1200px}
+@media (min-width:768px){section.cta .cols{justify-content:space-between}section.cta h3{text-align:left}section.cta .col-50:last-child{text-align:right}}
+section.cta{padding-block:36px!important}
+
+/* Live panel: cream, rounded, overlapping the hero, three white square cards with green line icons. */
+main>section.details{z-index:1;margin-top:-35px;padding:0 20px!important}
+.details .inner{padding:30px 20px;border-radius:24px;background:var(--cream)}
+.details .cols{gap:24px;align-items:stretch}
+.details .col{padding:24px 16px 30px;background:#fff;box-shadow:0 0 12px rgba(76,26,2,.1);text-align:center}
+.details p{margin:0;line-height:1.5}
+.ico{display:block;margin:0 auto 14px}
+.ico svg{width:100px;height:100px;stroke:var(--green);stroke-width:1}
+.details a{display:inline-block;padding:2px 0}
+@media (min-width:768px){
+  main>section.details{margin-top:-80px;padding:0 30px!important}
+  .details .inner{padding:80px 40px 60px}
+  .details .cols{display:grid;grid-template-columns:repeat(3,minmax(0,267px));justify-content:space-between;gap:24px}
+}
+.contact-cta{margin-top:14px}
+.contact-phones{margin-top:18px;line-height:1.9}
+.contact-phones a{display:inline-block;padding:2px 6px}
+.cta>img,.cta>picture>img{display:block;width:104px;height:auto;margin:0 auto 14px}
+section.cta.ov{padding-block:60px!important;background:var(--band)}
+
+.policy{max-width:1180px;margin:0 auto;font-size:.95rem}
+.policy h1{margin-bottom:.4em;text-align:center;font-size:2.2rem}
+.policy h1+p{text-align:center;font:400 .95rem/1.5 var(--f-bold)}
+.policy h1+p a{color:var(--green-text)}
+.policy hr{width:min(650px,100%);margin:1.6em auto;border:0;border-top:2px solid var(--green)}
+.faq details{margin-bottom:8px;border:1px solid #ddd;border-radius:3px}
+.faq summary{display:flex;align-items:center;gap:12px;min-height:48px;padding:10px 14px;cursor:pointer;list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary h2{margin:0;font-size:1.15rem}
+.faq summary::before{content:"";flex:none;width:8px;height:8px;margin:0 4px 0 2px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(-45deg)}
+.faq details[open] summary::before{transform:rotate(45deg)}
+.faq details>:not(summary){margin-inline:14px}
+.faq details[open]{padding-bottom:10px}
+
+.notfound{max-width:720px;margin:0 auto;text-align:center;padding-block:80px!important}
