@@ -1,0 +1,5356 @@
+{
+  "generated": "2026-10-25T09:59:45.040Z",
+  "images": {
+    "media/originals/2021/03/basil-leaf.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/03/basil-leaf.png",
+      "width": 209,
+      "height": 90,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 183.73,
+      "slots": {
+        "390": 150,
+        "768": 157,
+        "1440": 184
+      },
+      "sizes": "(max-width: 767px) 150px, (max-width: 1024px) 157px, 184px",
+      "inputKey": "6ec1743e18b4970d",
+      "variants": [
+        {
+          "w": 160,
+          "h": 69,
+          "format": "avif",
+          "file": "assets/img/basil-leaf-160.eedd288e.avif",
+          "bytes": 4575,
+          "quality": 75,
+          "ssim": 0.992
+        },
+        {
+          "w": 160,
+          "h": 69,
+          "format": "webp",
+          "file": "assets/img/basil-leaf-160.3271a0e3.webp",
+          "bytes": 5780,
+          "quality": 90,
+          "ssim": 0.9945
+        },
+        {
+          "w": 170,
+          "h": 73,
+          "format": "avif",
+          "file": "assets/img/basil-leaf-170.9f703a4e.avif",
+          "bytes": 4915,
+          "quality": 75,
+          "ssim": 0.9928
+        },
+        {
+          "w": 170,
+          "h": 73,
+          "format": "webp",
+          "file": "assets/img/basil-leaf-170.8f2a3cee.webp",
+          "bytes": 6372,
+          "quality": 90,
+          "ssim": 0.9951
+        },
+        {
+          "w": 180,
+          "h": 78,
+          "format": "avif",
+          "file": "assets/img/basil-leaf-180.149b84da.avif",
+          "bytes": 5196,
+          "quality": 75,
+          "ssim": 0.9921
+        },
+        {
+          "w": 180,
+          "h": 78,
+          "format": "webp",
+          "file": "assets/img/basil-leaf-180.658542aa.webp",
+          "bytes": 6920,
+          "quality": 90,
+          "ssim": 0.9945
+        },
+        {
+          "w": 209,
+          "h": 90,
+          "format": "avif",
+          "file": "assets/img/basil-leaf-209.d93fc742.avif",
+          "bytes": 6549,
+          "quality": 75,
+          "ssim": 0.9923
+        },
+        {
+          "w": 209,
+          "h": 90,
+          "format": "webp",
+          "file": "assets/img/basil-leaf-209.461c965f.webp",
+          "bytes": 7610,
+          "quality": 90,
+          "ssim": 0.9953
+        }
+      ]
+    },
+    "media/originals/2021/05/NATUR_Logo_ENG.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/05/NATUR_Logo_ENG.png",
+      "width": 350,
+      "height": 182,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 130.72,
+      "slots": {
+        "390": 126,
+        "768": 122,
+        "1440": 131
+      },
+      "sizes": "(max-width: 767px) 126px, (max-width: 1024px) 122px, 131px",
+      "inputKey": "3b692234c66cb1d3",
+      "variants": [
+        {
+          "w": 120,
+          "h": 62,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-120.2e51763b.avif",
+          "bytes": 4023,
+          "quality": 75,
+          "ssim": 0.998
+        },
+        {
+          "w": 120,
+          "h": 62,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-120.71ecf3be.webp",
+          "bytes": 5504,
+          "quality": 90,
+          "ssim": 0.9983
+        },
+        {
+          "w": 130,
+          "h": 68,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-130.e74f14cf.avif",
+          "bytes": 4445,
+          "quality": 75,
+          "ssim": 0.998
+        },
+        {
+          "w": 130,
+          "h": 68,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-130.56f07f1a.webp",
+          "bytes": 6298,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 150,
+          "h": 78,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-150.754aaaf5.avif",
+          "bytes": 5256,
+          "quality": 75,
+          "ssim": 0.9983
+        },
+        {
+          "w": 150,
+          "h": 78,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-150.c49050c4.webp",
+          "bytes": 7332,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 220,
+          "h": 114,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-220.dd7c34dc.avif",
+          "bytes": 8016,
+          "quality": 75,
+          "ssim": 0.9985
+        },
+        {
+          "w": 220,
+          "h": 114,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-220.51a6216c.webp",
+          "bytes": 11862,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 240,
+          "h": 125,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-240.718c56e3.avif",
+          "bytes": 8669,
+          "quality": 75,
+          "ssim": 0.9985
+        },
+        {
+          "w": 240,
+          "h": 125,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-240.0080e825.webp",
+          "bytes": 13172,
+          "quality": 90,
+          "ssim": 0.9983
+        },
+        {
+          "w": 250,
+          "h": 130,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-250.12e14908.avif",
+          "bytes": 9079,
+          "quality": 75,
+          "ssim": 0.9984
+        },
+        {
+          "w": 250,
+          "h": 130,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-250.5e5c9069.webp",
+          "bytes": 13842,
+          "quality": 90,
+          "ssim": 0.9986
+        },
+        {
+          "w": 260,
+          "h": 135,
+          "format": "avif",
+          "file": "assets/img/natur-logo-eng-260.0c83f2ea.avif",
+          "bytes": 9207,
+          "quality": 75,
+          "ssim": 0.9985
+        },
+        {
+          "w": 260,
+          "h": 135,
+          "format": "webp",
+          "file": "assets/img/natur-logo-eng-260.23819c88.webp",
+          "bytes": 14614,
+          "quality": 90,
+          "ssim": 0.9986
+        }
+      ]
+    },
+    "media/originals/2021/05/Organic-rye-sticks-wholegrain.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/05/Organic-rye-sticks-wholegrain.jpg",
+      "width": 2400,
+      "height": 1600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1050,
+      "slots": {
+        "390": 350,
+        "768": 708,
+        "1440": 1050
+      },
+      "sizes": "(max-width: 767px) calc(100vw - 40px), (max-width: 1109px) calc(100vw - 60px), 1050px",
+      "box": {
+        "390": [
+          350,
+          140
+        ],
+        "768": [
+          708,
+          372
+        ],
+        "1440": [
+          1050,
+          552
+        ]
+      },
+      "inputKey": "42013803134c0d69",
+      "variants": [
+        {
+          "w": 710,
+          "h": 473,
+          "format": "avif",
+          "file": "assets/img/organic-rye-sticks-wholegrain-710.ecca1076.avif",
+          "bytes": 97527,
+          "quality": 75,
+          "ssim": 0.9806
+        },
+        {
+          "w": 710,
+          "h": 473,
+          "format": "webp",
+          "file": "assets/img/organic-rye-sticks-wholegrain-710.7e165a64.webp",
+          "bytes": 127710,
+          "quality": 90,
+          "ssim": 0.9892
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "avif",
+          "file": "assets/img/organic-rye-sticks-wholegrain-1050.46140fa2.avif",
+          "bytes": 242781,
+          "quality": 75,
+          "ssim": 0.9803
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "webp",
+          "file": "assets/img/organic-rye-sticks-wholegrain-1050.024008ff.webp",
+          "bytes": 310274,
+          "quality": 90,
+          "ssim": 0.9904
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "avif",
+          "file": "assets/img/organic-rye-sticks-wholegrain-1420.48db7532.avif",
+          "bytes": 463420,
+          "quality": 75,
+          "ssim": 0.9825
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "webp",
+          "file": "assets/img/organic-rye-sticks-wholegrain-1420.d5bda9e4.webp",
+          "bytes": 591276,
+          "quality": 90,
+          "ssim": 0.9917
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "avif",
+          "file": "assets/img/organic-rye-sticks-wholegrain-2100.884e0f06.avif",
+          "bytes": 958905,
+          "quality": 75,
+          "ssim": 0.9863
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "webp",
+          "file": "assets/img/organic-rye-sticks-wholegrain-2100.0eb8e411.webp",
+          "bytes": 1277826,
+          "quality": 90,
+          "ssim": 0.9929
+        }
+      ],
+      "crops": {
+        "mobile": [
+          {
+            "w": 420,
+            "h": 168,
+            "format": "avif",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-420.18990c6a.avif",
+            "bytes": 22656,
+            "quality": 75,
+            "ssim": 0.9875
+          },
+          {
+            "w": 420,
+            "h": 168,
+            "format": "webp",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-420.2f52c80a.webp",
+            "bytes": 30320,
+            "quality": 90,
+            "ssim": 0.993
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "avif",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-780.3718e629.avif",
+            "bytes": 77006,
+            "quality": 75,
+            "ssim": 0.9824
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "webp",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-780.c5157a03.webp",
+            "bytes": 100700,
+            "quality": 90,
+            "ssim": 0.9907
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "avif",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-1450.3f7d3319.avif",
+            "bytes": 296666,
+            "quality": 75,
+            "ssim": 0.9832
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "webp",
+            "file": "assets/img/organic-rye-sticks-wholegrain-m-1450.daba698b.webp",
+            "bytes": 369798,
+            "quality": 90,
+            "ssim": 0.9915
+          }
+        ],
+        "sizes": "calc(100vw - 40px)"
+      }
+    },
+    "media/originals/2021/05/similar-products.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/05/similar-products.png",
+      "width": 749,
+      "height": 903,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 1440,
+      "slots": {
+        "390": 390,
+        "768": 768,
+        "1440": 1440
+      },
+      "sizes": "(max-width: 767px) 390px, (max-width: 1024px) 768px, 1440px",
+      "inputKey": "685bda4fbc599e42",
+      "variants": [
+        {
+          "w": 680,
+          "h": 820,
+          "format": "avif",
+          "file": "assets/img/similar-products-680.f3deb8a0.avif",
+          "bytes": 63475,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 680,
+          "h": 820,
+          "format": "webp",
+          "file": "assets/img/similar-products-680.5cf12bd0.webp",
+          "bytes": 119140,
+          "quality": 90,
+          "ssim": 0.9976
+        },
+        {
+          "w": 749,
+          "h": 903,
+          "format": "avif",
+          "file": "assets/img/similar-products-749.88c23bcd.avif",
+          "bytes": 85676,
+          "quality": 75,
+          "ssim": 0.9946
+        },
+        {
+          "w": 749,
+          "h": 903,
+          "format": "webp",
+          "file": "assets/img/similar-products-749.320a3633.webp",
+          "bytes": 118474,
+          "quality": 90,
+          "ssim": 0.9975
+        }
+      ],
+      "bg": {
+        "390": [
+          {
+            "w": 390,
+            "h": 470,
+            "format": "avif",
+            "file": "assets/img/similar-products-390.44e2f3be.avif",
+            "bytes": 30059,
+            "quality": 75,
+            "ssim": 0.9964
+          },
+          {
+            "w": 390,
+            "h": 470,
+            "format": "webp",
+            "file": "assets/img/similar-products-390.6db67571.webp",
+            "bytes": 50222,
+            "quality": 90,
+            "ssim": 0.9983
+          },
+          {
+            "w": 749,
+            "h": 903,
+            "format": "avif",
+            "file": "assets/img/similar-products-749.88c23bcd.avif",
+            "bytes": 85676,
+            "quality": 75,
+            "ssim": 0.9946
+          },
+          {
+            "w": 749,
+            "h": 903,
+            "format": "webp",
+            "file": "assets/img/similar-products-749.320a3633.webp",
+            "bytes": 118474,
+            "quality": 90,
+            "ssim": 0.9975
+          }
+        ],
+        "768": [
+          {
+            "w": 749,
+            "h": 903,
+            "format": "avif",
+            "file": "assets/img/similar-products-749.88c23bcd.avif",
+            "bytes": 85676,
+            "quality": 75,
+            "ssim": 0.9946
+          },
+          {
+            "w": 749,
+            "h": 903,
+            "format": "webp",
+            "file": "assets/img/similar-products-749.320a3633.webp",
+            "bytes": 118474,
+            "quality": 90,
+            "ssim": 0.9975
+          }
+        ],
+        "1440": [
+          {
+            "w": 749,
+            "h": 903,
+            "format": "avif",
+            "file": "assets/img/similar-products-749.88c23bcd.avif",
+            "bytes": 85676,
+            "quality": 75,
+            "ssim": 0.9946
+          },
+          {
+            "w": 749,
+            "h": 903,
+            "format": "webp",
+            "file": "assets/img/similar-products-749.320a3633.webp",
+            "bytes": 118474,
+            "quality": 90,
+            "ssim": 0.9975
+          }
+        ]
+      }
+    },
+    "media/originals/2021/06/Boryana-Balkanska.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/Boryana-Balkanska.jpg",
+      "width": 900,
+      "height": 900,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 540,
+      "slots": {
+        "390": 330,
+        "768": 344,
+        "1440": 540
+      },
+      "sizes": "(max-width: 767px) 330px, (max-width: 1024px) 344px, 540px",
+      "inputKey": "a328c15e0365ece8",
+      "variants": [
+        {
+          "w": 340,
+          "h": 340,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-340.14df878e.avif",
+          "bytes": 16261,
+          "quality": 75,
+          "ssim": 0.9905
+        },
+        {
+          "w": 340,
+          "h": 340,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-340.73187489.webp",
+          "bytes": 19852,
+          "quality": 90,
+          "ssim": 0.9902
+        },
+        {
+          "w": 540,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-540.d0216349.avif",
+          "bytes": 31476,
+          "quality": 75,
+          "ssim": 0.9905
+        },
+        {
+          "w": 540,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-540.35dd0281.webp",
+          "bytes": 39468,
+          "quality": 90,
+          "ssim": 0.9894
+        },
+        {
+          "w": 580,
+          "h": 580,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-580.8fd8a5b8.avif",
+          "bytes": 34911,
+          "quality": 75,
+          "ssim": 0.9904
+        },
+        {
+          "w": 580,
+          "h": 580,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-580.fdabd57e.webp",
+          "bytes": 43948,
+          "quality": 90,
+          "ssim": 0.9892
+        },
+        {
+          "w": 660,
+          "h": 660,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-660.39b7d398.avif",
+          "bytes": 41970,
+          "quality": 75,
+          "ssim": 0.9905
+        },
+        {
+          "w": 660,
+          "h": 660,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-660.f4fcbb28.webp",
+          "bytes": 54544,
+          "quality": 90,
+          "ssim": 0.9897
+        },
+        {
+          "w": 690,
+          "h": 690,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-690.b96c7490.avif",
+          "bytes": 44766,
+          "quality": 75,
+          "ssim": 0.9906
+        },
+        {
+          "w": 690,
+          "h": 690,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-690.393dc86d.webp",
+          "bytes": 58050,
+          "quality": 90,
+          "ssim": 0.99
+        },
+        {
+          "w": 900,
+          "h": 900,
+          "format": "avif",
+          "file": "assets/img/boryana-balkanska-900.771127db.avif",
+          "bytes": 67130,
+          "quality": 75,
+          "ssim": 0.9961
+        },
+        {
+          "w": 900,
+          "h": 900,
+          "format": "webp",
+          "file": "assets/img/boryana-balkanska-900.e5488443.webp",
+          "bytes": 78098,
+          "quality": 90,
+          "ssim": 0.99
+        }
+      ]
+    },
+    "media/originals/2021/06/Mariyan-Balkanski.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/Mariyan-Balkanski.jpg",
+      "width": 900,
+      "height": 900,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 540,
+      "slots": {
+        "390": 330,
+        "768": 344,
+        "1440": 540
+      },
+      "sizes": "(max-width: 767px) 330px, (max-width: 1024px) 344px, 540px",
+      "inputKey": "e7ea153b9d6f2fdf",
+      "variants": [
+        {
+          "w": 340,
+          "h": 340,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-340.6abeeb62.avif",
+          "bytes": 20288,
+          "quality": 75,
+          "ssim": 0.9843
+        },
+        {
+          "w": 340,
+          "h": 340,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-340.b789bcf8.webp",
+          "bytes": 26306,
+          "quality": 90,
+          "ssim": 0.9863
+        },
+        {
+          "w": 540,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-540.298a208b.avif",
+          "bytes": 41707,
+          "quality": 75,
+          "ssim": 0.9846
+        },
+        {
+          "w": 540,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-540.7a506d0a.webp",
+          "bytes": 53610,
+          "quality": 90,
+          "ssim": 0.9856
+        },
+        {
+          "w": 580,
+          "h": 580,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-580.507319f2.avif",
+          "bytes": 46244,
+          "quality": 75,
+          "ssim": 0.9848
+        },
+        {
+          "w": 580,
+          "h": 580,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-580.355cfe14.webp",
+          "bytes": 58924,
+          "quality": 90,
+          "ssim": 0.9854
+        },
+        {
+          "w": 660,
+          "h": 660,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-660.d6c26f1a.avif",
+          "bytes": 55503,
+          "quality": 75,
+          "ssim": 0.9857
+        },
+        {
+          "w": 660,
+          "h": 660,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-660.109fe470.webp",
+          "bytes": 68676,
+          "quality": 90,
+          "ssim": 0.9852
+        },
+        {
+          "w": 690,
+          "h": 690,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-690.715ec65a.avif",
+          "bytes": 58799,
+          "quality": 75,
+          "ssim": 0.9861
+        },
+        {
+          "w": 690,
+          "h": 690,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-690.ca3d57af.webp",
+          "bytes": 74764,
+          "quality": 90,
+          "ssim": 0.9859
+        },
+        {
+          "w": 900,
+          "h": 900,
+          "format": "avif",
+          "file": "assets/img/mariyan-balkanski-900.cb3d06f9.avif",
+          "bytes": 79257,
+          "quality": 75,
+          "ssim": 0.9967
+        },
+        {
+          "w": 900,
+          "h": 900,
+          "format": "webp",
+          "file": "assets/img/mariyan-balkanski-900.23e0bf47.webp",
+          "bytes": 97820,
+          "quality": 90,
+          "ssim": 0.9902
+        }
+      ]
+    },
+    "media/originals/2021/06/NATUR-BG_Logo_short.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/NATUR-BG_Logo_short.svg",
+      "width": 416,
+      "height": 93,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 393.31,
+      "variants": [
+        {
+          "w": 416,
+          "h": 93,
+          "format": "svg",
+          "file": "assets/img/natur-bg-logo-short.9ae3bc72.svg",
+          "bytes": 19690
+        }
+      ]
+    },
+    "media/originals/2021/06/Organic-gluten-free-sticks-home.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/Organic-gluten-free-sticks-home.jpg",
+      "width": 1300,
+      "height": 930,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 600,
+      "slots": {
+        "390": 550,
+        "768": 452,
+        "1440": 600
+      },
+      "sizes": "(max-width: 767px) 550px, (max-width: 1024px) 452px, 600px",
+      "inputKey": "34c44355c6d3121e",
+      "variants": [
+        {
+          "w": 450,
+          "h": 322,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-450.dc303001.avif",
+          "bytes": 46862,
+          "quality": 75,
+          "ssim": 0.9802
+        },
+        {
+          "w": 450,
+          "h": 322,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-450.8307a258.webp",
+          "bytes": 59338,
+          "quality": 90,
+          "ssim": 0.9886
+        },
+        {
+          "w": 600,
+          "h": 429,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-600.c700526d.avif",
+          "bytes": 101958,
+          "quality": 82,
+          "ssim": 0.9863
+        },
+        {
+          "w": 600,
+          "h": 429,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-600.9786f970.webp",
+          "bytes": 106986,
+          "quality": 90,
+          "ssim": 0.9888
+        },
+        {
+          "w": 900,
+          "h": 644,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-900.35dd60d5.avif",
+          "bytes": 207043,
+          "quality": 75,
+          "ssim": 0.9802
+        },
+        {
+          "w": 900,
+          "h": 644,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-900.336d5de3.webp",
+          "bytes": 253520,
+          "quality": 90,
+          "ssim": 0.99
+        },
+        {
+          "w": 960,
+          "h": 687,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-960.8586afbc.avif",
+          "bytes": 236875,
+          "quality": 75,
+          "ssim": 0.981
+        },
+        {
+          "w": 960,
+          "h": 687,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-960.44799b18.webp",
+          "bytes": 293962,
+          "quality": 90,
+          "ssim": 0.991
+        },
+        {
+          "w": 1100,
+          "h": 787,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-1100.34a8aa6c.avif",
+          "bytes": 309765,
+          "quality": 75,
+          "ssim": 0.9821
+        },
+        {
+          "w": 1100,
+          "h": 787,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-1100.38b0c8a2.webp",
+          "bytes": 385146,
+          "quality": 90,
+          "ssim": 0.9911
+        },
+        {
+          "w": 1200,
+          "h": 858,
+          "format": "avif",
+          "file": "assets/img/organic-gluten-free-sticks-home-1200.31c622d2.avif",
+          "bytes": 364049,
+          "quality": 75,
+          "ssim": 0.9831
+        },
+        {
+          "w": 1200,
+          "h": 858,
+          "format": "webp",
+          "file": "assets/img/organic-gluten-free-sticks-home-1200.64e0daca.webp",
+          "bytes": 459622,
+          "quality": 90,
+          "ssim": 0.9916
+        }
+      ]
+    },
+    "media/originals/2021/06/contact-background.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/contact-background.png",
+      "width": 1500,
+      "height": 1009,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 800,
+      "inputKey": "3b4c2580e207ff0f",
+      "variants": [
+        {
+          "w": 800,
+          "h": 538,
+          "format": "avif",
+          "file": "assets/img/contact-background-800.92e268c1.avif",
+          "bytes": 107504,
+          "quality": 75,
+          "ssim": 0.9966
+        },
+        {
+          "w": 800,
+          "h": 538,
+          "format": "webp",
+          "file": "assets/img/contact-background-800.a50e0a10.webp",
+          "bytes": 148852,
+          "quality": 90,
+          "ssim": 0.9976
+        },
+        {
+          "w": 1500,
+          "h": 1009,
+          "format": "avif",
+          "file": "assets/img/contact-background-1500.1118254a.avif",
+          "bytes": 196805,
+          "quality": 75,
+          "ssim": 0.9985
+        },
+        {
+          "w": 1500,
+          "h": 1009,
+          "format": "webp",
+          "file": "assets/img/contact-background-1500.c644590f.webp",
+          "bytes": 230610,
+          "quality": 90,
+          "ssim": 0.9987
+        }
+      ],
+      "bg": {
+        "390": [
+          {
+            "w": 412,
+            "h": 277,
+            "format": "avif",
+            "file": "assets/img/contact-background-412.562381b3.avif",
+            "bytes": 40777,
+            "quality": 75,
+            "ssim": 0.996
+          },
+          {
+            "w": 412,
+            "h": 277,
+            "format": "webp",
+            "file": "assets/img/contact-background-412.149810bf.webp",
+            "bytes": 53538,
+            "quality": 90,
+            "ssim": 0.997
+          },
+          {
+            "w": 824,
+            "h": 554,
+            "format": "avif",
+            "file": "assets/img/contact-background-824.d303ca8f.avif",
+            "bytes": 112362,
+            "quality": 75,
+            "ssim": 0.9967
+          },
+          {
+            "w": 824,
+            "h": 554,
+            "format": "webp",
+            "file": "assets/img/contact-background-824.3f440744.webp",
+            "bytes": 155612,
+            "quality": 90,
+            "ssim": 0.9977
+          }
+        ],
+        "768": [
+          {
+            "w": 768,
+            "h": 517,
+            "format": "avif",
+            "file": "assets/img/contact-background-768.905f400f.avif",
+            "bytes": 101676,
+            "quality": 75,
+            "ssim": 0.9966
+          },
+          {
+            "w": 768,
+            "h": 517,
+            "format": "webp",
+            "file": "assets/img/contact-background-768.de0e272c.webp",
+            "bytes": 139776,
+            "quality": 90,
+            "ssim": 0.9976
+          },
+          {
+            "w": 1500,
+            "h": 1009,
+            "format": "avif",
+            "file": "assets/img/contact-background-1500.1118254a.avif",
+            "bytes": 196805,
+            "quality": 75,
+            "ssim": 0.9985
+          },
+          {
+            "w": 1500,
+            "h": 1009,
+            "format": "webp",
+            "file": "assets/img/contact-background-1500.c644590f.webp",
+            "bytes": 230610,
+            "quality": 90,
+            "ssim": 0.9987
+          }
+        ],
+        "1440": [
+          {
+            "w": 1440,
+            "h": 969,
+            "format": "avif",
+            "file": "assets/img/contact-background-1440.7398f29d.avif",
+            "bytes": 268173,
+            "quality": 75,
+            "ssim": 0.9968
+          },
+          {
+            "w": 1440,
+            "h": 969,
+            "format": "webp",
+            "file": "assets/img/contact-background-1440.636b1ee7.webp",
+            "bytes": 345292,
+            "quality": 90,
+            "ssim": 0.9975
+          },
+          {
+            "w": 1500,
+            "h": 1009,
+            "format": "avif",
+            "file": "assets/img/contact-background-1500.1118254a.avif",
+            "bytes": 196805,
+            "quality": 75,
+            "ssim": 0.9985
+          },
+          {
+            "w": 1500,
+            "h": 1009,
+            "format": "webp",
+            "file": "assets/img/contact-background-1500.c644590f.webp",
+            "bytes": 230610,
+            "quality": 90,
+            "ssim": 0.9987
+          }
+        ]
+      }
+    },
+    "media/originals/2021/06/contacts-2.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/contacts-2.jpg",
+      "width": 2400,
+      "height": 1594,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1440,
+      "slots": {
+        "390": 390,
+        "768": 768,
+        "1440": 1440
+      },
+      "sizes": "100vw",
+      "box": {
+        "390": [
+          390,
+          240
+        ],
+        "768": [
+          768,
+          405
+        ],
+        "1440": [
+          1440,
+          405
+        ]
+      },
+      "inputKey": "7cb02c143c8e78e1",
+      "variants": [
+        {
+          "w": 470,
+          "h": 312,
+          "format": "avif",
+          "file": "assets/img/contacts-2-470.a6336105.avif",
+          "bytes": 51441,
+          "quality": 75,
+          "ssim": 0.9922
+        },
+        {
+          "w": 470,
+          "h": 312,
+          "format": "webp",
+          "file": "assets/img/contacts-2-470.e5ab2dc6.webp",
+          "bytes": 66900,
+          "quality": 90,
+          "ssim": 0.996
+        },
+        {
+          "w": 680,
+          "h": 452,
+          "format": "avif",
+          "file": "assets/img/contacts-2-680.08e5eb1b.avif",
+          "bytes": 93744,
+          "quality": 75,
+          "ssim": 0.9923
+        },
+        {
+          "w": 680,
+          "h": 452,
+          "format": "webp",
+          "file": "assets/img/contacts-2-680.2cfcb82f.webp",
+          "bytes": 122420,
+          "quality": 90,
+          "ssim": 0.9953
+        },
+        {
+          "w": 770,
+          "h": 511,
+          "format": "avif",
+          "file": "assets/img/contacts-2-770.15bf49bd.avif",
+          "bytes": 111227,
+          "quality": 75,
+          "ssim": 0.9921
+        },
+        {
+          "w": 770,
+          "h": 511,
+          "format": "webp",
+          "file": "assets/img/contacts-2-770.bad3d643.webp",
+          "bytes": 145420,
+          "quality": 90,
+          "ssim": 0.9949
+        },
+        {
+          "w": 780,
+          "h": 518,
+          "format": "avif",
+          "file": "assets/img/contacts-2-780.94a1f67f.avif",
+          "bytes": 113299,
+          "quality": 75,
+          "ssim": 0.9923
+        },
+        {
+          "w": 780,
+          "h": 518,
+          "format": "webp",
+          "file": "assets/img/contacts-2-780.9947ec2e.webp",
+          "bytes": 149004,
+          "quality": 90,
+          "ssim": 0.9949
+        },
+        {
+          "w": 820,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/contacts-2-820.ba395568.avif",
+          "bytes": 122010,
+          "quality": 75,
+          "ssim": 0.9922
+        },
+        {
+          "w": 820,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/contacts-2-820.86935e86.webp",
+          "bytes": 160814,
+          "quality": 90,
+          "ssim": 0.9946
+        },
+        {
+          "w": 1440,
+          "h": 956,
+          "format": "avif",
+          "file": "assets/img/contacts-2-1440.9540d966.avif",
+          "bytes": 254525,
+          "quality": 75,
+          "ssim": 0.9921
+        },
+        {
+          "w": 1440,
+          "h": 956,
+          "format": "webp",
+          "file": "assets/img/contacts-2-1440.8fc2229f.webp",
+          "bytes": 344466,
+          "quality": 90,
+          "ssim": 0.9929
+        },
+        {
+          "w": 1540,
+          "h": 1023,
+          "format": "avif",
+          "file": "assets/img/contacts-2-1540.b74b2504.avif",
+          "bytes": 275890,
+          "quality": 75,
+          "ssim": 0.9919
+        },
+        {
+          "w": 1540,
+          "h": 1023,
+          "format": "webp",
+          "file": "assets/img/contacts-2-1540.feb0ed81.webp",
+          "bytes": 365554,
+          "quality": 90,
+          "ssim": 0.9923
+        },
+        {
+          "w": 2400,
+          "h": 1594,
+          "format": "avif",
+          "file": "assets/img/contacts-2-2400.5911bbb7.avif",
+          "bytes": 415157,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 2400,
+          "h": 1594,
+          "format": "webp",
+          "file": "assets/img/contacts-2-2400.5a5b43a2.webp",
+          "bytes": 589162,
+          "quality": 90,
+          "ssim": 0.9932
+        }
+      ]
+    },
+    "media/originals/2021/06/lightning-energy.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/lightning-energy.svg",
+      "width": 1190,
+      "height": 1684,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 80,
+      "variants": [
+        {
+          "w": 1190,
+          "h": 1684,
+          "format": "svg",
+          "file": "assets/img/lightning-energy.5f9fbf54.svg",
+          "bytes": 1991
+        }
+      ]
+    },
+    "media/originals/2021/06/naturbg-home-4.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/naturbg-home-4.jpg",
+      "width": 2452,
+      "height": 1408,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1440,
+      "slots": {
+        "390": 390,
+        "768": 768,
+        "1440": 1440
+      },
+      "sizes": "(max-width: 767px) 390px, (max-width: 1024px) 768px, 1440px",
+      "inputKey": "8e234ff1ca26bcf6",
+      "variants": [
+        {
+          "w": 768,
+          "h": 441,
+          "format": "avif",
+          "file": "assets/img/naturbg-home-4-768.60c39eff.avif",
+          "bytes": 101571,
+          "quality": 75,
+          "ssim": 0.9838
+        },
+        {
+          "w": 768,
+          "h": 441,
+          "format": "webp",
+          "file": "assets/img/naturbg-home-4-768.c22705b2.webp",
+          "bytes": 135532,
+          "quality": 90,
+          "ssim": 0.9903
+        },
+        {
+          "w": 1024,
+          "h": 588,
+          "format": "avif",
+          "file": "assets/img/naturbg-home-4-1024.8e676eb9.avif",
+          "bytes": 176295,
+          "quality": 75,
+          "ssim": 0.9844
+        },
+        {
+          "w": 1024,
+          "h": 588,
+          "format": "webp",
+          "file": "assets/img/naturbg-home-4-1024.4d95260e.webp",
+          "bytes": 238418,
+          "quality": 90,
+          "ssim": 0.9908
+        },
+        {
+          "w": 1440,
+          "h": 827,
+          "format": "avif",
+          "file": "assets/img/naturbg-home-4-1440.033c5a9e.avif",
+          "bytes": 319068,
+          "quality": 75,
+          "ssim": 0.9856
+        },
+        {
+          "w": 1440,
+          "h": 827,
+          "format": "webp",
+          "file": "assets/img/naturbg-home-4-1440.6a9eff3b.webp",
+          "bytes": 438130,
+          "quality": 90,
+          "ssim": 0.991
+        },
+        {
+          "w": 1920,
+          "h": 1103,
+          "format": "avif",
+          "file": "assets/img/naturbg-home-4-1920.f614a455.avif",
+          "bytes": 501285,
+          "quality": 75,
+          "ssim": 0.9871
+        },
+        {
+          "w": 1920,
+          "h": 1103,
+          "format": "webp",
+          "file": "assets/img/naturbg-home-4-1920.04d6f907.webp",
+          "bytes": 678406,
+          "quality": 90,
+          "ssim": 0.9897
+        }
+      ],
+      "art": {
+        "mobile": [
+          {
+            "w": 470,
+            "h": 347,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-m-470.15d6c8ae.avif",
+            "bytes": 54211,
+            "quality": 75,
+            "ssim": 0.9843
+          },
+          {
+            "w": 470,
+            "h": 347,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-m-470.6e8e2711.webp",
+            "bytes": 68996,
+            "quality": 90,
+            "ssim": 0.9908
+          }
+        ],
+        "mobileHiDpi": [
+          {
+            "w": 824,
+            "h": 608,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-m-824.4e6db7b4.avif",
+            "bytes": 150610,
+            "quality": 75,
+            "ssim": 0.9859
+          },
+          {
+            "w": 824,
+            "h": 608,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-m-824.af308f1c.webp",
+            "bytes": 199928,
+            "quality": 90,
+            "ssim": 0.9913
+          }
+        ],
+        "desktop": [
+          {
+            "w": 768,
+            "h": 441,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-768.60c39eff.avif",
+            "bytes": 101571,
+            "quality": 75,
+            "ssim": 0.9838
+          },
+          {
+            "w": 768,
+            "h": 441,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-768.c22705b2.webp",
+            "bytes": 135532,
+            "quality": 90,
+            "ssim": 0.9903
+          },
+          {
+            "w": 1024,
+            "h": 588,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-1024.8e676eb9.avif",
+            "bytes": 176295,
+            "quality": 75,
+            "ssim": 0.9844
+          },
+          {
+            "w": 1024,
+            "h": 588,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-1024.4d95260e.webp",
+            "bytes": 238418,
+            "quality": 90,
+            "ssim": 0.9908
+          },
+          {
+            "w": 1440,
+            "h": 827,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-1440.033c5a9e.avif",
+            "bytes": 319068,
+            "quality": 75,
+            "ssim": 0.9856
+          },
+          {
+            "w": 1440,
+            "h": 827,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-1440.6a9eff3b.webp",
+            "bytes": 438130,
+            "quality": 90,
+            "ssim": 0.991
+          },
+          {
+            "w": 1920,
+            "h": 1103,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-1920.f614a455.avif",
+            "bytes": 501285,
+            "quality": 75,
+            "ssim": 0.9871
+          },
+          {
+            "w": 1920,
+            "h": 1103,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-1920.04d6f907.webp",
+            "bytes": 678406,
+            "quality": 90,
+            "ssim": 0.9897
+          }
+        ]
+      },
+      "bg": {
+        "390": [
+          {
+            "w": 390,
+            "h": 224,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-390.b3131488.avif",
+            "bytes": 27840,
+            "quality": 75,
+            "ssim": 0.9815
+          },
+          {
+            "w": 390,
+            "h": 224,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-390.2bb6ee29.webp",
+            "bytes": 34612,
+            "quality": 90,
+            "ssim": 0.9893
+          },
+          {
+            "w": 780,
+            "h": 448,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-780.7b9ed052.avif",
+            "bytes": 103681,
+            "quality": 75,
+            "ssim": 0.9836
+          },
+          {
+            "w": 780,
+            "h": 448,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-780.6ab1fa81.webp",
+            "bytes": 137664,
+            "quality": 90,
+            "ssim": 0.9901
+          }
+        ],
+        "768": [
+          {
+            "w": 768,
+            "h": 441,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-768.60c39eff.avif",
+            "bytes": 101571,
+            "quality": 75,
+            "ssim": 0.9838
+          },
+          {
+            "w": 768,
+            "h": 441,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-768.c22705b2.webp",
+            "bytes": 135532,
+            "quality": 90,
+            "ssim": 0.9903
+          },
+          {
+            "w": 1536,
+            "h": 882,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-1536.9b8b1e02.avif",
+            "bytes": 354168,
+            "quality": 75,
+            "ssim": 0.9858
+          },
+          {
+            "w": 1536,
+            "h": 882,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-1536.33d1f11c.webp",
+            "bytes": 490366,
+            "quality": 90,
+            "ssim": 0.9911
+          }
+        ],
+        "1440": [
+          {
+            "w": 1440,
+            "h": 827,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-1440.033c5a9e.avif",
+            "bytes": 319068,
+            "quality": 75,
+            "ssim": 0.9856
+          },
+          {
+            "w": 1440,
+            "h": 827,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-1440.6a9eff3b.webp",
+            "bytes": 438130,
+            "quality": 90,
+            "ssim": 0.991
+          },
+          {
+            "w": 2452,
+            "h": 1408,
+            "format": "avif",
+            "file": "assets/img/naturbg-home-4-2452.3ece1622.avif",
+            "bytes": 603847,
+            "quality": 75,
+            "ssim": 0.9969
+          },
+          {
+            "w": 2452,
+            "h": 1408,
+            "format": "webp",
+            "file": "assets/img/naturbg-home-4-2452.cdc0fa21.webp",
+            "bytes": 871550,
+            "quality": 90,
+            "ssim": 0.9933
+          }
+        ]
+      }
+    },
+    "media/originals/2021/06/oil-icon.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/oil-icon.svg",
+      "width": 750,
+      "height": 750,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": null,
+      "variants": [
+        {
+          "w": 750,
+          "h": 750,
+          "format": "svg",
+          "file": "assets/img/oil-icon.10ff1eb7.svg",
+          "bytes": 8135
+        }
+      ]
+    },
+    "media/originals/2021/06/orange-vitamins.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/orange-vitamins.svg",
+      "width": 1190,
+      "height": 1684,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 100,
+      "variants": [
+        {
+          "w": 1190,
+          "h": 1684,
+          "format": "svg",
+          "file": "assets/img/orange-vitamins.b01c870a.svg",
+          "bytes": 6072
+        }
+      ]
+    },
+    "media/originals/2021/06/rye-1.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/rye-1.svg",
+      "width": 150,
+      "height": 150,
+      "aboveFold": {
+        "390": true,
+        "1440": false
+      },
+      "rendered": 100,
+      "variants": [
+        {
+          "w": 150,
+          "h": 150,
+          "format": "svg",
+          "file": "assets/img/rye-1.b66be55b.svg",
+          "bytes": 5932
+        }
+      ]
+    },
+    "media/originals/2021/06/rye-flour-icon.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/rye-flour-icon.svg",
+      "width": 750,
+      "height": 750,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": null,
+      "variants": [
+        {
+          "w": 750,
+          "h": 750,
+          "format": "svg",
+          "file": "assets/img/rye-flour-icon.03fab1b0.svg",
+          "bytes": 26210
+        }
+      ]
+    },
+    "media/originals/2021/06/salt-icon.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/salt-icon.svg",
+      "width": 750,
+      "height": 750,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": null,
+      "variants": [
+        {
+          "w": 750,
+          "h": 750,
+          "format": "svg",
+          "file": "assets/img/salt-icon.aa5dd5f7.svg",
+          "bytes": 102763
+        }
+      ]
+    },
+    "media/originals/2021/06/sourdough-icon-1.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/sourdough-icon-1.svg",
+      "width": 750,
+      "height": 750,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": null,
+      "variants": [
+        {
+          "w": 750,
+          "h": 750,
+          "format": "svg",
+          "file": "assets/img/sourdough-icon-1.62fa9b97.svg",
+          "bytes": 10842
+        }
+      ]
+    },
+    "media/originals/2021/06/store-home-2.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/06/store-home-2.jpg",
+      "width": 853,
+      "height": 1300,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 768,
+      "slots": {
+        "390": 390,
+        "768": 768,
+        "1440": 600
+      },
+      "sizes": "(max-width: 767px) 390px, (max-width: 1024px) 768px, 600px",
+      "inputKey": "7c9fa65ef78b5db5",
+      "variants": [
+        {
+          "w": 600,
+          "h": 914,
+          "format": "avif",
+          "file": "assets/img/store-home-2-600.4a9fb6d8.avif",
+          "bytes": 81869,
+          "quality": 75,
+          "ssim": 0.9914
+        },
+        {
+          "w": 600,
+          "h": 914,
+          "format": "webp",
+          "file": "assets/img/store-home-2-600.025f5dfa.webp",
+          "bytes": 110688,
+          "quality": 90,
+          "ssim": 0.9916
+        },
+        {
+          "w": 680,
+          "h": 1036,
+          "format": "avif",
+          "file": "assets/img/store-home-2-680.2e22ac6b.avif",
+          "bytes": 96637,
+          "quality": 75,
+          "ssim": 0.9917
+        },
+        {
+          "w": 680,
+          "h": 1036,
+          "format": "webp",
+          "file": "assets/img/store-home-2-680.3aba05ff.webp",
+          "bytes": 132006,
+          "quality": 90,
+          "ssim": 0.9917
+        },
+        {
+          "w": 770,
+          "h": 1174,
+          "format": "avif",
+          "file": "assets/img/store-home-2-770.387d6bd4.avif",
+          "bytes": 116014,
+          "quality": 75,
+          "ssim": 0.9919
+        },
+        {
+          "w": 770,
+          "h": 1174,
+          "format": "webp",
+          "file": "assets/img/store-home-2-770.a7b129b4.webp",
+          "bytes": 158006,
+          "quality": 90,
+          "ssim": 0.9916
+        },
+        {
+          "w": 780,
+          "h": 1189,
+          "format": "avif",
+          "file": "assets/img/store-home-2-780.44be9a3d.avif",
+          "bytes": 117925,
+          "quality": 75,
+          "ssim": 0.9919
+        },
+        {
+          "w": 780,
+          "h": 1189,
+          "format": "webp",
+          "file": "assets/img/store-home-2-780.77279d11.webp",
+          "bytes": 160248,
+          "quality": 90,
+          "ssim": 0.9916
+        },
+        {
+          "w": 853,
+          "h": 1300,
+          "format": "avif",
+          "file": "assets/img/store-home-2-853.6fd65f81.avif",
+          "bytes": 142443,
+          "quality": 75,
+          "ssim": 0.9964
+        },
+        {
+          "w": 853,
+          "h": 1300,
+          "format": "webp",
+          "file": "assets/img/store-home-2-853.621a5636.webp",
+          "bytes": 183530,
+          "quality": 90,
+          "ssim": 0.9936
+        }
+      ],
+      "bg": {
+        "390": [
+          {
+            "w": 390,
+            "h": 594,
+            "format": "avif",
+            "file": "assets/img/store-home-2-390.790a0b96.avif",
+            "bytes": 43216,
+            "quality": 75,
+            "ssim": 0.9904
+          },
+          {
+            "w": 390,
+            "h": 594,
+            "format": "webp",
+            "file": "assets/img/store-home-2-390.4a358acc.webp",
+            "bytes": 58212,
+            "quality": 90,
+            "ssim": 0.9916
+          },
+          {
+            "w": 780,
+            "h": 1189,
+            "format": "avif",
+            "file": "assets/img/store-home-2-780.44be9a3d.avif",
+            "bytes": 117925,
+            "quality": 75,
+            "ssim": 0.9919
+          },
+          {
+            "w": 780,
+            "h": 1189,
+            "format": "webp",
+            "file": "assets/img/store-home-2-780.77279d11.webp",
+            "bytes": 160248,
+            "quality": 90,
+            "ssim": 0.9916
+          }
+        ],
+        "768": [
+          {
+            "w": 768,
+            "h": 1170,
+            "format": "avif",
+            "file": "assets/img/store-home-2-768.a69d2e46.avif",
+            "bytes": 115088,
+            "quality": 75,
+            "ssim": 0.9919
+          },
+          {
+            "w": 768,
+            "h": 1170,
+            "format": "webp",
+            "file": "assets/img/store-home-2-768.f378c064.webp",
+            "bytes": 155930,
+            "quality": 90,
+            "ssim": 0.9918
+          },
+          {
+            "w": 853,
+            "h": 1300,
+            "format": "avif",
+            "file": "assets/img/store-home-2-853.6fd65f81.avif",
+            "bytes": 142443,
+            "quality": 75,
+            "ssim": 0.9964
+          },
+          {
+            "w": 853,
+            "h": 1300,
+            "format": "webp",
+            "file": "assets/img/store-home-2-853.621a5636.webp",
+            "bytes": 183530,
+            "quality": 90,
+            "ssim": 0.9936
+          }
+        ],
+        "1440": [
+          {
+            "w": 600,
+            "h": 914,
+            "format": "avif",
+            "file": "assets/img/store-home-2-600.4a9fb6d8.avif",
+            "bytes": 81869,
+            "quality": 75,
+            "ssim": 0.9914
+          },
+          {
+            "w": 600,
+            "h": 914,
+            "format": "webp",
+            "file": "assets/img/store-home-2-600.025f5dfa.webp",
+            "bytes": 110688,
+            "quality": 90,
+            "ssim": 0.9916
+          },
+          {
+            "w": 853,
+            "h": 1300,
+            "format": "avif",
+            "file": "assets/img/store-home-2-853.6fd65f81.avif",
+            "bytes": 142443,
+            "quality": 75,
+            "ssim": 0.9964
+          },
+          {
+            "w": 853,
+            "h": 1300,
+            "format": "webp",
+            "file": "assets/img/store-home-2-853.621a5636.webp",
+            "bytes": 183530,
+            "quality": 90,
+            "ssim": 0.9936
+          }
+        ]
+      }
+    },
+    "media/originals/2021/06/wheat.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/06/wheat.png",
+      "width": 190,
+      "height": 149,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 120,
+      "slots": {
+        "390": 105,
+        "768": 73,
+        "1440": 120
+      },
+      "sizes": "(max-width: 767px) 105px, (max-width: 1024px) 73px, 120px",
+      "inputKey": "2c48bb05e8158803",
+      "variants": [
+        {
+          "w": 70,
+          "h": 55,
+          "format": "avif",
+          "file": "assets/img/wheat-70.d11cf06c.avif",
+          "bytes": 1966,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 70,
+          "h": 55,
+          "format": "webp",
+          "file": "assets/img/wheat-70.5a4cf294.webp",
+          "bytes": 2402,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 120,
+          "h": 94,
+          "format": "avif",
+          "file": "assets/img/wheat-120.4a1c87ac.avif",
+          "bytes": 3570,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 120,
+          "h": 94,
+          "format": "webp",
+          "file": "assets/img/wheat-120.016bc909.webp",
+          "bytes": 4652,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 150,
+          "h": 118,
+          "format": "avif",
+          "file": "assets/img/wheat-150.ccbfdb05.avif",
+          "bytes": 4715,
+          "quality": 75,
+          "ssim": 0.9972
+        },
+        {
+          "w": 150,
+          "h": 118,
+          "format": "webp",
+          "file": "assets/img/wheat-150.7bdf492e.webp",
+          "bytes": 6428,
+          "quality": 90,
+          "ssim": 0.9984
+        },
+        {
+          "w": 180,
+          "h": 141,
+          "format": "avif",
+          "file": "assets/img/wheat-180.9a7d8629.avif",
+          "bytes": 6003,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 180,
+          "h": 141,
+          "format": "webp",
+          "file": "assets/img/wheat-180.e7f83d52.webp",
+          "bytes": 8234,
+          "quality": 90,
+          "ssim": 0.9982
+        },
+        {
+          "w": 190,
+          "h": 149,
+          "format": "avif",
+          "file": "assets/img/wheat-190.c7cec086.avif",
+          "bytes": 5568,
+          "quality": 75,
+          "ssim": 0.9971
+        },
+        {
+          "w": 190,
+          "h": 149,
+          "format": "webp",
+          "file": "assets/img/wheat-190.04562c3b.webp",
+          "bytes": 8590,
+          "quality": 90,
+          "ssim": 0.9982
+        }
+      ]
+    },
+    "media/originals/2021/07/Atanas-Balkanski-3.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/07/Atanas-Balkanski-3.jpg",
+      "width": 1000,
+      "height": 668,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 540,
+      "slots": {
+        "390": 390,
+        "768": 344,
+        "1440": 540
+      },
+      "sizes": "(max-width: 767px) 390px, (max-width: 1024px) 344px, 540px",
+      "inputKey": "47e6b92d50792e71",
+      "variants": [
+        {
+          "w": 340,
+          "h": 227,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-340.458cf193.avif",
+          "bytes": 14737,
+          "quality": 75,
+          "ssim": 0.9864
+        },
+        {
+          "w": 340,
+          "h": 227,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-340.2f26ea67.webp",
+          "bytes": 17924,
+          "quality": 90,
+          "ssim": 0.9875
+        },
+        {
+          "w": 540,
+          "h": 361,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-540.94d830ca.avif",
+          "bytes": 30937,
+          "quality": 75,
+          "ssim": 0.9871
+        },
+        {
+          "w": 540,
+          "h": 361,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-540.044064d6.webp",
+          "bytes": 38202,
+          "quality": 90,
+          "ssim": 0.9877
+        },
+        {
+          "w": 680,
+          "h": 454,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-680.cd01cdca.avif",
+          "bytes": 44196,
+          "quality": 75,
+          "ssim": 0.9873
+        },
+        {
+          "w": 680,
+          "h": 454,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-680.cbfe1f85.webp",
+          "bytes": 56040,
+          "quality": 90,
+          "ssim": 0.9878
+        },
+        {
+          "w": 690,
+          "h": 461,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-690.77782270.avif",
+          "bytes": 45931,
+          "quality": 75,
+          "ssim": 0.9875
+        },
+        {
+          "w": 690,
+          "h": 461,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-690.285fe17d.webp",
+          "bytes": 56632,
+          "quality": 90,
+          "ssim": 0.9878
+        },
+        {
+          "w": 780,
+          "h": 521,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-780.53d450b5.avif",
+          "bytes": 54500,
+          "quality": 75,
+          "ssim": 0.988
+        },
+        {
+          "w": 780,
+          "h": 521,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-780.dbeeb67c.webp",
+          "bytes": 68972,
+          "quality": 90,
+          "ssim": 0.9885
+        },
+        {
+          "w": 1000,
+          "h": 668,
+          "format": "avif",
+          "file": "assets/img/atanas-balkanski-3-1000.7800b743.avif",
+          "bytes": 76811,
+          "quality": 75,
+          "ssim": 0.9949
+        },
+        {
+          "w": 1000,
+          "h": 668,
+          "format": "webp",
+          "file": "assets/img/atanas-balkanski-3-1000.19b5a8ca.webp",
+          "bytes": 96726,
+          "quality": 90,
+          "ssim": 0.9905
+        }
+      ]
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "28057b411d9a2ff8",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-320.b731062d.avif",
+          "bytes": 28687,
+          "quality": 75,
+          "ssim": 0.9906
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-320.fa83165e.webp",
+          "bytes": 41222,
+          "quality": 90,
+          "ssim": 0.9908
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-350.b95e4caf.avif",
+          "bytes": 31606,
+          "quality": 75,
+          "ssim": 0.991
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-350.dd30fa97.webp",
+          "bytes": 44234,
+          "quality": 90,
+          "ssim": 0.9912
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-391.d5a9967f.avif",
+          "bytes": 34633,
+          "quality": 75,
+          "ssim": 0.9904
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-391.9c7527eb.webp",
+          "bytes": 62570,
+          "quality": 95,
+          "ssim": 0.9914
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-einkorn-wholegrain-bg-packshot.jpg"
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "5c6f2835e9852a3f",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-320.16c44830.avif",
+          "bytes": 29569,
+          "quality": 75,
+          "ssim": 0.9912
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-320.b33b22aa.webp",
+          "bytes": 41796,
+          "quality": 90,
+          "ssim": 0.9917
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-350.2b69ef9a.avif",
+          "bytes": 33292,
+          "quality": 75,
+          "ssim": 0.9906
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-350.ff2e6024.webp",
+          "bytes": 45350,
+          "quality": 90,
+          "ssim": 0.9908
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-391.6d0bfc8b.avif",
+          "bytes": 32890,
+          "quality": 75,
+          "ssim": 0.9912
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-391.aac31528.webp",
+          "bytes": 62224,
+          "quality": 95,
+          "ssim": 0.9928
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-einkorn-wholegrain-eng-packshot.jpg"
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "e05010e07eb147ce",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-320.b68f440c.avif",
+          "bytes": 29114,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-320.859ab830.webp",
+          "bytes": 40898,
+          "quality": 90,
+          "ssim": 0.994
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-350.322f26eb.avif",
+          "bytes": 33282,
+          "quality": 75,
+          "ssim": 0.9922
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-350.11e61b1a.webp",
+          "bytes": 43562,
+          "quality": 90,
+          "ssim": 0.992
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-391.5aca7d78.avif",
+          "bytes": 33326,
+          "quality": 75,
+          "ssim": 0.9931
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-391.1b5d36d1.webp",
+          "bytes": 44528,
+          "quality": 90,
+          "ssim": 0.9907
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-rye-wholegrain-bg-packshot.jpg"
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Packshot-new.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Packshot-new.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "be00b5e0242cc49a",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-320.ee127931.avif",
+          "bytes": 29507,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-320.804886e6.webp",
+          "bytes": 40296,
+          "quality": 90,
+          "ssim": 0.9939
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-350.749eda57.avif",
+          "bytes": 32197,
+          "quality": 75,
+          "ssim": 0.9925
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-350.22b94dd4.webp",
+          "bytes": 44518,
+          "quality": 90,
+          "ssim": 0.9928
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-391.9f0c8486.avif",
+          "bytes": 33078,
+          "quality": 75,
+          "ssim": 0.9928
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-packshot-new-391.5a0978c4.webp",
+          "bytes": 45156,
+          "quality": 90,
+          "ssim": 0.9912
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-rye-wholegrain-eng-packshot-new.jpg"
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "8f74441c507d596e",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-320.f8337b92.avif",
+          "bytes": 30611,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-320.a5a1d2d8.webp",
+          "bytes": 43208,
+          "quality": 90,
+          "ssim": 0.9937
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-350.bf8b53bf.avif",
+          "bytes": 35168,
+          "quality": 75,
+          "ssim": 0.9933
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-350.70869e79.webp",
+          "bytes": 47128,
+          "quality": 90,
+          "ssim": 0.9931
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-391.eda84502.avif",
+          "bytes": 36458,
+          "quality": 75,
+          "ssim": 0.9934
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-391.f6be583b.webp",
+          "bytes": 49622,
+          "quality": 90,
+          "ssim": 0.9919
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-spelt-wholegrain-bg-packshot.jpg"
+    },
+    "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "7270e4bcff56f484",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-320.22eea04b.avif",
+          "bytes": 31810,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-320.34ba1b02.webp",
+          "bytes": 44332,
+          "quality": 90,
+          "ssim": 0.9939
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-350.0d827ec7.avif",
+          "bytes": 35645,
+          "quality": 75,
+          "ssim": 0.9935
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-350.0246c1ff.webp",
+          "bytes": 49430,
+          "quality": 90,
+          "ssim": 0.9936
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-391.41f41e4f.avif",
+          "bytes": 36259,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-391.001c0958.webp",
+          "bytes": 50290,
+          "quality": 90,
+          "ssim": 0.9924
+        }
+      ],
+      "og": "assets/og/natur-organic-sticks-spelt-wholegrain-eng-packshot.jpg"
+    },
+    "media/originals/2021/07/Organic-spelt-sticks-wholegrain.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/07/Organic-spelt-sticks-wholegrain.jpg",
+      "width": 2400,
+      "height": 1600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1050,
+      "slots": {
+        "390": 350,
+        "768": 708,
+        "1440": 1050
+      },
+      "sizes": "(max-width: 767px) calc(100vw - 40px), (max-width: 1109px) calc(100vw - 60px), 1050px",
+      "box": {
+        "390": [
+          350,
+          140
+        ],
+        "768": [
+          708,
+          372
+        ],
+        "1440": [
+          1050,
+          552
+        ]
+      },
+      "inputKey": "9854dd5bdbb0e245",
+      "variants": [
+        {
+          "w": 710,
+          "h": 473,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-710.6a5ab9fb.avif",
+          "bytes": 117110,
+          "quality": 82,
+          "ssim": 0.9855
+        },
+        {
+          "w": 710,
+          "h": 473,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-710.e7d68c64.webp",
+          "bytes": 123844,
+          "quality": 90,
+          "ssim": 0.9864
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-1050.cb246d86.avif",
+          "bytes": 233347,
+          "quality": 75,
+          "ssim": 0.9807
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-1050.da1fa8d6.webp",
+          "bytes": 308374,
+          "quality": 90,
+          "ssim": 0.9908
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-1420.6caa8c46.avif",
+          "bytes": 422539,
+          "quality": 75,
+          "ssim": 0.9857
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-1420.e5798d7b.webp",
+          "bytes": 606516,
+          "quality": 90,
+          "ssim": 0.9933
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-2100.71a1824b.avif",
+          "bytes": 836144,
+          "quality": 75,
+          "ssim": 0.989
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-sticks-wholegrain-2100.4c941389.webp",
+          "bytes": 1237776,
+          "quality": 90,
+          "ssim": 0.994
+        }
+      ],
+      "crops": {
+        "mobile": [
+          {
+            "w": 420,
+            "h": 168,
+            "format": "avif",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-420.1f4be12c.avif",
+            "bytes": 21841,
+            "quality": 75,
+            "ssim": 0.9815
+          },
+          {
+            "w": 420,
+            "h": 168,
+            "format": "webp",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-420.fccd85ae.webp",
+            "bytes": 27396,
+            "quality": 90,
+            "ssim": 0.9873
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "avif",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-780.deb9243b.avif",
+            "bytes": 89574,
+            "quality": 82,
+            "ssim": 0.9866
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "webp",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-780.24541620.webp",
+            "bytes": 94604,
+            "quality": 90,
+            "ssim": 0.9873
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "avif",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-1450.39e1c147.avif",
+            "bytes": 279414,
+            "quality": 75,
+            "ssim": 0.9884
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "webp",
+            "file": "assets/img/organic-spelt-sticks-wholegrain-m-1450.ac025376.webp",
+            "bytes": 402424,
+            "quality": 90,
+            "ssim": 0.995
+          }
+        ],
+        "sizes": "calc(100vw - 40px)"
+      }
+    },
+    "media/originals/2021/07/Vanya-Balkanska.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/07/Vanya-Balkanska.jpg",
+      "width": 1000,
+      "height": 667,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 540,
+      "slots": {
+        "390": 390,
+        "768": 344,
+        "1440": 540
+      },
+      "sizes": "(max-width: 767px) 390px, (max-width: 1024px) 344px, 540px",
+      "inputKey": "bba720f272a61e78",
+      "variants": [
+        {
+          "w": 340,
+          "h": 227,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-340.5d00dad3.avif",
+          "bytes": 8913,
+          "quality": 75,
+          "ssim": 0.992
+        },
+        {
+          "w": 340,
+          "h": 227,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-340.65cfa22c.webp",
+          "bytes": 11196,
+          "quality": 90,
+          "ssim": 0.9912
+        },
+        {
+          "w": 540,
+          "h": 360,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-540.18b71d06.avif",
+          "bytes": 15708,
+          "quality": 75,
+          "ssim": 0.9925
+        },
+        {
+          "w": 540,
+          "h": 360,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-540.2de23a84.webp",
+          "bytes": 20686,
+          "quality": 90,
+          "ssim": 0.9916
+        },
+        {
+          "w": 680,
+          "h": 454,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-680.92537e1e.avif",
+          "bytes": 21574,
+          "quality": 75,
+          "ssim": 0.9927
+        },
+        {
+          "w": 680,
+          "h": 454,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-680.b60a6356.webp",
+          "bytes": 27646,
+          "quality": 90,
+          "ssim": 0.9911
+        },
+        {
+          "w": 690,
+          "h": 460,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-690.c148275c.avif",
+          "bytes": 22263,
+          "quality": 75,
+          "ssim": 0.9927
+        },
+        {
+          "w": 690,
+          "h": 460,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-690.41946585.webp",
+          "bytes": 27854,
+          "quality": 90,
+          "ssim": 0.991
+        },
+        {
+          "w": 780,
+          "h": 520,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-780.0349d9e7.avif",
+          "bytes": 25525,
+          "quality": 75,
+          "ssim": 0.9929
+        },
+        {
+          "w": 780,
+          "h": 520,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-780.6897bc45.webp",
+          "bytes": 32808,
+          "quality": 90,
+          "ssim": 0.9916
+        },
+        {
+          "w": 1000,
+          "h": 667,
+          "format": "avif",
+          "file": "assets/img/vanya-balkanska-1000.e2d3dd41.avif",
+          "bytes": 39741,
+          "quality": 75,
+          "ssim": 0.9968
+        },
+        {
+          "w": 1000,
+          "h": 667,
+          "format": "webp",
+          "file": "assets/img/vanya-balkanska-1000.d153eb32.webp",
+          "bytes": 44618,
+          "quality": 90,
+          "ssim": 0.993
+        }
+      ]
+    },
+    "media/originals/2021/07/about-us-2.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/07/about-us-2.jpg",
+      "width": 2400,
+      "height": 1390,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1440,
+      "slots": {
+        "390": 415,
+        "768": 768,
+        "1440": 1440
+      },
+      "sizes": "100vw",
+      "box": {
+        "390": [
+          390,
+          240
+        ],
+        "768": [
+          768,
+          405
+        ],
+        "1440": [
+          1440,
+          405
+        ]
+      },
+      "inputKey": "8d1a03f4e4002163",
+      "variants": [
+        {
+          "w": 470,
+          "h": 272,
+          "format": "avif",
+          "file": "assets/img/about-us-2-470.aaa863ea.avif",
+          "bytes": 33606,
+          "quality": 75,
+          "ssim": 0.9878
+        },
+        {
+          "w": 470,
+          "h": 272,
+          "format": "webp",
+          "file": "assets/img/about-us-2-470.b6c571ba.webp",
+          "bytes": 42682,
+          "quality": 90,
+          "ssim": 0.9915
+        },
+        {
+          "w": 730,
+          "h": 423,
+          "format": "avif",
+          "file": "assets/img/about-us-2-730.ee2c1510.avif",
+          "bytes": 69594,
+          "quality": 75,
+          "ssim": 0.9886
+        },
+        {
+          "w": 730,
+          "h": 423,
+          "format": "webp",
+          "file": "assets/img/about-us-2-730.b37aa56f.webp",
+          "bytes": 88982,
+          "quality": 90,
+          "ssim": 0.9905
+        },
+        {
+          "w": 770,
+          "h": 446,
+          "format": "avif",
+          "file": "assets/img/about-us-2-770.343cd1f7.avif",
+          "bytes": 75166,
+          "quality": 75,
+          "ssim": 0.9886
+        },
+        {
+          "w": 770,
+          "h": 446,
+          "format": "webp",
+          "file": "assets/img/about-us-2-770.43ae0184.webp",
+          "bytes": 96098,
+          "quality": 90,
+          "ssim": 0.9904
+        },
+        {
+          "w": 820,
+          "h": 475,
+          "format": "avif",
+          "file": "assets/img/about-us-2-820.ae9a323a.avif",
+          "bytes": 84723,
+          "quality": 75,
+          "ssim": 0.9889
+        },
+        {
+          "w": 820,
+          "h": 475,
+          "format": "webp",
+          "file": "assets/img/about-us-2-820.654e0f4c.webp",
+          "bytes": 108440,
+          "quality": 90,
+          "ssim": 0.9907
+        },
+        {
+          "w": 830,
+          "h": 481,
+          "format": "avif",
+          "file": "assets/img/about-us-2-830.26452379.avif",
+          "bytes": 86159,
+          "quality": 75,
+          "ssim": 0.9891
+        },
+        {
+          "w": 830,
+          "h": 481,
+          "format": "webp",
+          "file": "assets/img/about-us-2-830.43028a06.webp",
+          "bytes": 110308,
+          "quality": 90,
+          "ssim": 0.9906
+        },
+        {
+          "w": 1440,
+          "h": 834,
+          "format": "avif",
+          "file": "assets/img/about-us-2-1440.848b5c9b.avif",
+          "bytes": 190191,
+          "quality": 75,
+          "ssim": 0.9904
+        },
+        {
+          "w": 1440,
+          "h": 834,
+          "format": "webp",
+          "file": "assets/img/about-us-2-1440.7dd410b3.webp",
+          "bytes": 253368,
+          "quality": 90,
+          "ssim": 0.9905
+        },
+        {
+          "w": 1540,
+          "h": 892,
+          "format": "avif",
+          "file": "assets/img/about-us-2-1540.2a66033c.avif",
+          "bytes": 207942,
+          "quality": 75,
+          "ssim": 0.9903
+        },
+        {
+          "w": 1540,
+          "h": 892,
+          "format": "webp",
+          "file": "assets/img/about-us-2-1540.a108d5ce.webp",
+          "bytes": 279314,
+          "quality": 90,
+          "ssim": 0.9906
+        },
+        {
+          "w": 2400,
+          "h": 1390,
+          "format": "avif",
+          "file": "assets/img/about-us-2-2400.90c71dc9.avif",
+          "bytes": 353173,
+          "quality": 75,
+          "ssim": 0.9968
+        },
+        {
+          "w": 2400,
+          "h": 1390,
+          "format": "webp",
+          "file": "assets/img/about-us-2-2400.afcb5124.webp",
+          "bytes": 476896,
+          "quality": 90,
+          "ssim": 0.9917
+        }
+      ]
+    },
+    "media/originals/2021/07/about-us-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/about-us-seo.png",
+      "width": 1300,
+      "height": 717,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/about-us-seo.jpg"
+    },
+    "media/originals/2021/07/contact-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/contact-seo.png",
+      "width": 1300,
+      "height": 796,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/contact-seo.jpg"
+    },
+    "media/originals/2021/07/euprogramlogos.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/07/euprogramlogos.jpg",
+      "width": 1130,
+      "height": 191,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 1130,
+      "slots": {
+        "390": 350,
+        "768": 708,
+        "1440": 1130
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 708px, 1130px",
+      "inputKey": "acaeac629c3c8a1c",
+      "variants": [
+        {
+          "w": 610,
+          "h": 103,
+          "format": "avif",
+          "file": "assets/img/euprogramlogos-610.9a31340d.avif",
+          "bytes": 7106,
+          "quality": 75,
+          "ssim": 0.9984
+        },
+        {
+          "w": 610,
+          "h": 103,
+          "format": "webp",
+          "file": "assets/img/euprogramlogos-610.9dd3a64a.webp",
+          "bytes": 9500,
+          "quality": 90,
+          "ssim": 0.9983
+        },
+        {
+          "w": 700,
+          "h": 118,
+          "format": "avif",
+          "file": "assets/img/euprogramlogos-700.2cc26742.avif",
+          "bytes": 8392,
+          "quality": 75,
+          "ssim": 0.9984
+        },
+        {
+          "w": 700,
+          "h": 118,
+          "format": "webp",
+          "file": "assets/img/euprogramlogos-700.b9d80504.webp",
+          "bytes": 11486,
+          "quality": 90,
+          "ssim": 0.9985
+        },
+        {
+          "w": 710,
+          "h": 120,
+          "format": "avif",
+          "file": "assets/img/euprogramlogos-710.bcc5769b.avif",
+          "bytes": 8412,
+          "quality": 75,
+          "ssim": 0.998
+        },
+        {
+          "w": 710,
+          "h": 120,
+          "format": "webp",
+          "file": "assets/img/euprogramlogos-710.9c0dbf19.webp",
+          "bytes": 11404,
+          "quality": 90,
+          "ssim": 0.998
+        },
+        {
+          "w": 1130,
+          "h": 191,
+          "format": "avif",
+          "file": "assets/img/euprogramlogos-1130.9fcc5aef.avif",
+          "bytes": 15082,
+          "quality": 75,
+          "ssim": 0.9979
+        },
+        {
+          "w": 1130,
+          "h": 191,
+          "format": "webp",
+          "file": "assets/img/euprogramlogos-1130.a78988ae.webp",
+          "bytes": 19350,
+          "quality": 90,
+          "ssim": 0.9978
+        }
+      ]
+    },
+    "media/originals/2021/07/home-bg-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/home-bg-seo.png",
+      "width": 1300,
+      "height": 718,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/home-bg-seo.jpg"
+    },
+    "media/originals/2021/07/home-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/home-seo.png",
+      "width": 1421,
+      "height": 783,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/home-seo.jpg"
+    },
+    "media/originals/2021/07/kontakti-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/kontakti-seo.png",
+      "width": 1300,
+      "height": 798,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/kontakti-seo.jpg"
+    },
+    "media/originals/2021/07/packshot-test-1.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/07/packshot-test-1.png",
+      "width": 391,
+      "height": 609,
+      "aboveFold": {
+        "390": false,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "ddd79da9bc42f6e8",
+      "variants": [
+        {
+          "w": 320,
+          "h": 498,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-320.1667c633.avif",
+          "bytes": 29910,
+          "quality": 75,
+          "ssim": 0.9947
+        },
+        {
+          "w": 320,
+          "h": 498,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-320.ec8c7659.webp",
+          "bytes": 39364,
+          "quality": 90,
+          "ssim": 0.995
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-350.b45dae37.avif",
+          "bytes": 32879,
+          "quality": 75,
+          "ssim": 0.9954
+        },
+        {
+          "w": 350,
+          "h": 545,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-350.46b79625.webp",
+          "bytes": 42406,
+          "quality": 90,
+          "ssim": 0.995
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-391.809c9d7f.avif",
+          "bytes": 32297,
+          "quality": 75,
+          "ssim": 0.9968
+        },
+        {
+          "w": 391,
+          "h": 609,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-391.7135246f.webp",
+          "bytes": 44166,
+          "quality": 90,
+          "ssim": 0.9962
+        }
+      ],
+      "og": "assets/og/packshot-test-1.jpg"
+    },
+    "media/originals/2021/07/products-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/products-seo.png",
+      "width": 1300,
+      "height": 718,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/products-seo.jpg"
+    },
+    "media/originals/2021/07/produkti-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/produkti-seo.png",
+      "width": 1300,
+      "height": 718,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/produkti-seo.jpg"
+    },
+    "media/originals/2021/07/za-nas-seo.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/07/za-nas-seo.png",
+      "width": 1300,
+      "height": 718,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/za-nas-seo.jpg"
+    },
+    "media/originals/2021/10/7-scaled.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/10/7-scaled.jpg",
+      "width": 2560,
+      "height": 1706,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1050,
+      "slots": {
+        "390": 350,
+        "768": 708,
+        "1440": 1050
+      },
+      "sizes": "(max-width: 767px) calc(100vw - 40px), (max-width: 1109px) calc(100vw - 60px), 1050px",
+      "box": {
+        "390": [
+          350,
+          140
+        ],
+        "768": [
+          708,
+          372
+        ],
+        "1440": [
+          1050,
+          552
+        ]
+      },
+      "inputKey": "2a24dfe4dda094e1",
+      "variants": [
+        {
+          "w": 710,
+          "h": 473,
+          "format": "avif",
+          "file": "assets/img/7-scaled-710.fef24c95.avif",
+          "bytes": 101400,
+          "quality": 75,
+          "ssim": 0.9884
+        },
+        {
+          "w": 710,
+          "h": 473,
+          "format": "webp",
+          "file": "assets/img/7-scaled-710.64e2077c.webp",
+          "bytes": 141032,
+          "quality": 90,
+          "ssim": 0.9931
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "avif",
+          "file": "assets/img/7-scaled-1050.5126b4c9.avif",
+          "bytes": 207773,
+          "quality": 75,
+          "ssim": 0.9867
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "webp",
+          "file": "assets/img/7-scaled-1050.6cf3a11e.webp",
+          "bytes": 289982,
+          "quality": 90,
+          "ssim": 0.9921
+        },
+        {
+          "w": 1420,
+          "h": 946,
+          "format": "avif",
+          "file": "assets/img/7-scaled-1420.95b9b19b.avif",
+          "bytes": 343813,
+          "quality": 75,
+          "ssim": 0.9862
+        },
+        {
+          "w": 1420,
+          "h": 946,
+          "format": "webp",
+          "file": "assets/img/7-scaled-1420.e95b0b06.webp",
+          "bytes": 473240,
+          "quality": 90,
+          "ssim": 0.9909
+        },
+        {
+          "w": 2100,
+          "h": 1399,
+          "format": "avif",
+          "file": "assets/img/7-scaled-2100.862e9869.avif",
+          "bytes": 618960,
+          "quality": 75,
+          "ssim": 0.9864
+        },
+        {
+          "w": 2100,
+          "h": 1399,
+          "format": "webp",
+          "file": "assets/img/7-scaled-2100.956c30db.webp",
+          "bytes": 879612,
+          "quality": 90,
+          "ssim": 0.9901
+        }
+      ],
+      "crops": {
+        "mobile": [
+          {
+            "w": 420,
+            "h": 168,
+            "format": "avif",
+            "file": "assets/img/7-scaled-m-420.729e8f29.avif",
+            "bytes": 21943,
+            "quality": 75,
+            "ssim": 0.9881
+          },
+          {
+            "w": 420,
+            "h": 168,
+            "format": "webp",
+            "file": "assets/img/7-scaled-m-420.6222d945.webp",
+            "bytes": 30002,
+            "quality": 90,
+            "ssim": 0.9927
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "avif",
+            "file": "assets/img/7-scaled-m-780.ac4934bf.avif",
+            "bytes": 67244,
+            "quality": 75,
+            "ssim": 0.985
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "webp",
+            "file": "assets/img/7-scaled-m-780.7bc020c0.webp",
+            "bytes": 92508,
+            "quality": 90,
+            "ssim": 0.9902
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "avif",
+            "file": "assets/img/7-scaled-m-1450.6b5ad68a.avif",
+            "bytes": 197195,
+            "quality": 75,
+            "ssim": 0.9832
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "webp",
+            "file": "assets/img/7-scaled-m-1450.08b50349.webp",
+            "bytes": 274650,
+            "quality": 90,
+            "ssim": 0.9883
+          }
+        ],
+        "sizes": "calc(100vw - 40px)"
+      }
+    },
+    "media/originals/2021/10/8-scaled.jpg": {
+      "kind": "photo",
+      "alpha": false,
+      "source": "media/originals/2021/10/8-scaled.jpg",
+      "width": 2560,
+      "height": 1707,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 1050,
+      "slots": {
+        "390": 350,
+        "768": 708,
+        "1440": 1050
+      },
+      "sizes": "(max-width: 767px) calc(100vw - 40px), (max-width: 1109px) calc(100vw - 60px), 1050px",
+      "box": {
+        "390": [
+          350,
+          140
+        ],
+        "768": [
+          708,
+          372
+        ],
+        "1440": [
+          1050,
+          552
+        ]
+      },
+      "inputKey": "cebe04bdfcaca280",
+      "variants": [
+        {
+          "w": 710,
+          "h": 473,
+          "format": "avif",
+          "file": "assets/img/8-scaled-710.8e96803a.avif",
+          "bytes": 120236,
+          "quality": 82,
+          "ssim": 0.9868
+        },
+        {
+          "w": 710,
+          "h": 473,
+          "format": "webp",
+          "file": "assets/img/8-scaled-710.9edbf555.webp",
+          "bytes": 129980,
+          "quality": 90,
+          "ssim": 0.9883
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "avif",
+          "file": "assets/img/8-scaled-1050.e7dd3ce1.avif",
+          "bytes": 224572,
+          "quality": 75,
+          "ssim": 0.9805
+        },
+        {
+          "w": 1050,
+          "h": 700,
+          "format": "webp",
+          "file": "assets/img/8-scaled-1050.92698244.webp",
+          "bytes": 300898,
+          "quality": 90,
+          "ssim": 0.99
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "avif",
+          "file": "assets/img/8-scaled-1420.2ec1de7e.avif",
+          "bytes": 390151,
+          "quality": 75,
+          "ssim": 0.9815
+        },
+        {
+          "w": 1420,
+          "h": 947,
+          "format": "webp",
+          "file": "assets/img/8-scaled-1420.ed060b6f.webp",
+          "bytes": 536104,
+          "quality": 90,
+          "ssim": 0.9902
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "avif",
+          "file": "assets/img/8-scaled-2100.1d67ac2e.avif",
+          "bytes": 741693,
+          "quality": 75,
+          "ssim": 0.9846
+        },
+        {
+          "w": 2100,
+          "h": 1400,
+          "format": "webp",
+          "file": "assets/img/8-scaled-2100.f9bd1ae7.webp",
+          "bytes": 1062202,
+          "quality": 90,
+          "ssim": 0.9905
+        }
+      ],
+      "crops": {
+        "mobile": [
+          {
+            "w": 420,
+            "h": 168,
+            "format": "avif",
+            "file": "assets/img/8-scaled-m-420.c29e7155.avif",
+            "bytes": 22229,
+            "quality": 75,
+            "ssim": 0.984
+          },
+          {
+            "w": 420,
+            "h": 168,
+            "format": "webp",
+            "file": "assets/img/8-scaled-m-420.4a200886.webp",
+            "bytes": 29076,
+            "quality": 90,
+            "ssim": 0.9905
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "avif",
+            "file": "assets/img/8-scaled-m-780.399fc1cf.avif",
+            "bytes": 77051,
+            "quality": 75,
+            "ssim": 0.9816
+          },
+          {
+            "w": 780,
+            "h": 312,
+            "format": "webp",
+            "file": "assets/img/8-scaled-m-780.61b7f98c.webp",
+            "bytes": 101352,
+            "quality": 90,
+            "ssim": 0.99
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "avif",
+            "file": "assets/img/8-scaled-m-1450.ee71fda2.avif",
+            "bytes": 252075,
+            "quality": 75,
+            "ssim": 0.9828
+          },
+          {
+            "w": 1450,
+            "h": 580,
+            "format": "webp",
+            "file": "assets/img/8-scaled-m-1450.c47aade2.webp",
+            "bytes": 345036,
+            "quality": 90,
+            "ssim": 0.9912
+          }
+        ],
+        "sizes": "calc(100vw - 40px)"
+      }
+    },
+    "media/originals/2021/10/crackers.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/10/crackers.png",
+      "width": 500,
+      "height": 750,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 350,
+      "slots": {
+        "390": 350,
+        "768": 324,
+        "1440": 345
+      },
+      "sizes": "(max-width: 767px) 350px, (max-width: 1024px) 324px, 345px",
+      "inputKey": "37e3a87ea4781726",
+      "variants": [
+        {
+          "w": 320,
+          "h": 480,
+          "format": "avif",
+          "file": "assets/img/crackers-320.d9d34212.avif",
+          "bytes": 32863,
+          "quality": 75,
+          "ssim": 0.9941
+        },
+        {
+          "w": 320,
+          "h": 480,
+          "format": "webp",
+          "file": "assets/img/crackers-320.37df5527.webp",
+          "bytes": 44710,
+          "quality": 90,
+          "ssim": 0.9947
+        },
+        {
+          "w": 350,
+          "h": 525,
+          "format": "avif",
+          "file": "assets/img/crackers-350.ab7c24a5.avif",
+          "bytes": 36453,
+          "quality": 75,
+          "ssim": 0.993
+        },
+        {
+          "w": 350,
+          "h": 525,
+          "format": "webp",
+          "file": "assets/img/crackers-350.0af6288a.webp",
+          "bytes": 51140,
+          "quality": 90,
+          "ssim": 0.9937
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/crackers-400.57bbfa1c.avif",
+          "bytes": 43116,
+          "quality": 75,
+          "ssim": 0.9921
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/crackers-400.5c2d5410.webp",
+          "bytes": 59462,
+          "quality": 90,
+          "ssim": 0.9922
+        },
+        {
+          "w": 500,
+          "h": 750,
+          "format": "avif",
+          "file": "assets/img/crackers-500.68dc6d54.avif",
+          "bytes": 67436,
+          "quality": 75,
+          "ssim": 0.9928
+        },
+        {
+          "w": 500,
+          "h": 750,
+          "format": "webp",
+          "file": "assets/img/crackers-500.dedfcdfa.webp",
+          "bytes": 108482,
+          "quality": 95,
+          "ssim": 0.9949
+        }
+      ],
+      "og": "assets/og/crackers.jpg"
+    },
+    "media/originals/2021/10/crackers_BG-cut.png": {
+      "kind": "graphic",
+      "alpha": false,
+      "source": "media/originals/2021/10/crackers_BG-cut.png",
+      "width": 438,
+      "height": 656,
+      "ogOnly": true,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "variants": [],
+      "og": "assets/og/crackers-bg-cut.jpg"
+    },
+    "media/originals/2021/10/orange-vitamins-2.svg": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/2021/10/orange-vitamins-2.svg",
+      "width": 1135,
+      "height": 1134,
+      "aboveFold": {
+        "390": false,
+        "1440": false
+      },
+      "rendered": 100,
+      "variants": [
+        {
+          "w": 1135,
+          "h": 1134,
+          "format": "svg",
+          "file": "assets/img/orange-vitamins-2.d918304c.svg",
+          "bytes": 5333
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "bbbcb318a8ab22e8",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-340.bab7ef6c.avif",
+          "bytes": 22479,
+          "quality": 75,
+          "ssim": 0.994
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-340.d9d5a049.webp",
+          "bytes": 32524,
+          "quality": 90,
+          "ssim": 0.9938
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-360.a480f77b.avif",
+          "bytes": 23859,
+          "quality": 75,
+          "ssim": 0.994
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-360.f98d4142.webp",
+          "bytes": 35262,
+          "quality": 90,
+          "ssim": 0.9937
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-400.10567a29.avif",
+          "bytes": 25820,
+          "quality": 75,
+          "ssim": 0.9933
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-packshot-400.e5bb2dd4.webp",
+          "bytes": 38270,
+          "quality": 90,
+          "ssim": 0.9933
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "b3ab3727fc4dde5d",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-340.26fc0625.avif",
+          "bytes": 21594,
+          "quality": 75,
+          "ssim": 0.9978
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-340.d8e21b98.webp",
+          "bytes": 31628,
+          "quality": 90,
+          "ssim": 0.9973
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-360.3aa1fb6f.avif",
+          "bytes": 23059,
+          "quality": 75,
+          "ssim": 0.9977
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-360.968ba4ef.webp",
+          "bytes": 34150,
+          "quality": 90,
+          "ssim": 0.9976
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-400.3609700d.avif",
+          "bytes": 26017,
+          "quality": 75,
+          "ssim": 0.9981
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-bg-table-400.c6514476.webp",
+          "bytes": 39144,
+          "quality": 90,
+          "ssim": 0.998
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "714caa8651462311",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-340.cfe057af.avif",
+          "bytes": 22978,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-340.99ec0cba.webp",
+          "bytes": 33244,
+          "quality": 90,
+          "ssim": 0.9936
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-360.318f707c.avif",
+          "bytes": 24391,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-360.80c2c832.webp",
+          "bytes": 35720,
+          "quality": 90,
+          "ssim": 0.9938
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-400.535a68a8.avif",
+          "bytes": 26273,
+          "quality": 75,
+          "ssim": 0.9937
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-packshot-400.27cbac35.webp",
+          "bytes": 39288,
+          "quality": 90,
+          "ssim": 0.9936
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "3da1dd11b621765c",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-340.c64caebc.avif",
+          "bytes": 21037,
+          "quality": 75,
+          "ssim": 0.9979
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-340.c45e5aee.webp",
+          "bytes": 29530,
+          "quality": 90,
+          "ssim": 0.9976
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-360.c645c42b.avif",
+          "bytes": 22940,
+          "quality": 75,
+          "ssim": 0.9979
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-360.5ee4b705.webp",
+          "bytes": 33190,
+          "quality": 90,
+          "ssim": 0.9979
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-400.c877e180.avif",
+          "bytes": 26057,
+          "quality": 75,
+          "ssim": 0.9983
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-einkorn-wholegrain-eng-table-400.9e3405af.webp",
+          "bytes": 37800,
+          "quality": 90,
+          "ssim": 0.9983
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_OAT_ENG_Table-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_OAT_ENG_Table-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "13c1a66af2111309",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-340.b7b9e506.avif",
+          "bytes": 23747,
+          "quality": 75,
+          "ssim": 0.9967
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-340.29ceb1eb.webp",
+          "bytes": 34890,
+          "quality": 90,
+          "ssim": 0.9963
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-360.f7657531.avif",
+          "bytes": 25321,
+          "quality": 75,
+          "ssim": 0.9966
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-360.4c520efd.webp",
+          "bytes": 38176,
+          "quality": 90,
+          "ssim": 0.9965
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-400.478bbb4d.avif",
+          "bytes": 29163,
+          "quality": 75,
+          "ssim": 0.9975
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-oat-eng-table-1-400.6959a43f.webp",
+          "bytes": 42596,
+          "quality": 90,
+          "ssim": 0.9971
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "cc18cfa5863e508f",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-340.37dd15fd.avif",
+          "bytes": 22576,
+          "quality": 75,
+          "ssim": 0.9946
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-340.adad8a69.webp",
+          "bytes": 32804,
+          "quality": 90,
+          "ssim": 0.9945
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-360.75d7a6f4.avif",
+          "bytes": 24089,
+          "quality": 75,
+          "ssim": 0.9947
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-360.b08cea0a.webp",
+          "bytes": 34720,
+          "quality": 90,
+          "ssim": 0.9945
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-400.94dff0bf.avif",
+          "bytes": 26111,
+          "quality": 75,
+          "ssim": 0.9944
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-packshot-400.4d0c357b.webp",
+          "bytes": 38328,
+          "quality": 90,
+          "ssim": 0.9943
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-Minerals-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-Minerals-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "49b67ab1aa48ecd3",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-340.c933d81d.avif",
+          "bytes": 24511,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-340.b368cbab.webp",
+          "bytes": 36022,
+          "quality": 90,
+          "ssim": 0.9971
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-360.de7e2d47.avif",
+          "bytes": 25766,
+          "quality": 75,
+          "ssim": 0.9973
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-360.ce1992bd.webp",
+          "bytes": 37698,
+          "quality": 90,
+          "ssim": 0.997
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-400.0647992c.avif",
+          "bytes": 28647,
+          "quality": 75,
+          "ssim": 0.9975
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-minerals-400.9d985e50.webp",
+          "bytes": 42342,
+          "quality": 90,
+          "ssim": 0.9973
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "6ee8c485e099ea47",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-340.131d4475.avif",
+          "bytes": 22459,
+          "quality": 75,
+          "ssim": 0.9976
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-340.17130c83.webp",
+          "bytes": 33690,
+          "quality": 90,
+          "ssim": 0.9974
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-360.4fe4326a.avif",
+          "bytes": 23971,
+          "quality": 75,
+          "ssim": 0.9976
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-360.80dac37c.webp",
+          "bytes": 35470,
+          "quality": 90,
+          "ssim": 0.9972
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-400.143ce1f1.avif",
+          "bytes": 27323,
+          "quality": 75,
+          "ssim": 0.9981
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-bg-table-400.c9fb9868.webp",
+          "bytes": 39394,
+          "quality": 90,
+          "ssim": 0.998
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-Minerals-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-Minerals-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "fbbf8d60615c0719",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-340.ecc80ab4.avif",
+          "bytes": 25595,
+          "quality": 75,
+          "ssim": 0.9974
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-340.5e4458e7.webp",
+          "bytes": 37246,
+          "quality": 90,
+          "ssim": 0.9973
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-360.f428c972.avif",
+          "bytes": 27719,
+          "quality": 75,
+          "ssim": 0.9972
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-360.b00397ba.webp",
+          "bytes": 40592,
+          "quality": 90,
+          "ssim": 0.997
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-400.edbedc42.avif",
+          "bytes": 30976,
+          "quality": 75,
+          "ssim": 0.9977
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-minerals-400.456111ba.webp",
+          "bytes": 44482,
+          "quality": 90,
+          "ssim": 0.9976
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "3d5c6a2c8161d552",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-340.ace06e2a.avif",
+          "bytes": 22616,
+          "quality": 75,
+          "ssim": 0.9976
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-340.fe432e1f.webp",
+          "bytes": 32698,
+          "quality": 90,
+          "ssim": 0.9974
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-360.49a630b0.avif",
+          "bytes": 23975,
+          "quality": 75,
+          "ssim": 0.9972
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-360.cf829241.webp",
+          "bytes": 34876,
+          "quality": 90,
+          "ssim": 0.9968
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-400.3338803d.avif",
+          "bytes": 27857,
+          "quality": 75,
+          "ssim": 0.9979
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-table-400.b4b66dd8.webp",
+          "bytes": 40146,
+          "quality": 90,
+          "ssim": 0.9977
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_tranpsparent-peujsvjp3wjlbzyhneq7rxa3trm4s1o08u6pt7508g.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_tranpsparent-peujsvjp3wjlbzyhneq7rxa3trm4s1o08u6pt7508g.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "938ac945e4f13326",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-340.fba1da46.avif",
+          "bytes": 28066,
+          "quality": 75,
+          "ssim": 0.9929
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-340.6fb09d8d.webp",
+          "bytes": 37824,
+          "quality": 90,
+          "ssim": 0.9935
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-360.748a56ec.avif",
+          "bytes": 31721,
+          "quality": 75,
+          "ssim": 0.9915
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-360.c136fa41.webp",
+          "bytes": 41536,
+          "quality": 90,
+          "ssim": 0.9917
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-400.adb39922.avif",
+          "bytes": 32253,
+          "quality": 75,
+          "ssim": 0.9928
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-rye-wholegrain-eng-tranpsparent-400.1fbdec24.webp",
+          "bytes": 43024,
+          "quality": 90,
+          "ssim": 0.9931
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "b24f8e9cf9a14b83",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-340.ec60d723.avif",
+          "bytes": 24887,
+          "quality": 75,
+          "ssim": 0.9954
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-340.6fc2ac46.webp",
+          "bytes": 36056,
+          "quality": 90,
+          "ssim": 0.9952
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-360.8a635653.avif",
+          "bytes": 26398,
+          "quality": 75,
+          "ssim": 0.9952
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-360.df9ef4ba.webp",
+          "bytes": 38292,
+          "quality": 90,
+          "ssim": 0.9949
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-400.5d69a3cb.avif",
+          "bytes": 29049,
+          "quality": 75,
+          "ssim": 0.9949
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-bg-packshot-400.1da6fcbf.webp",
+          "bytes": 42206,
+          "quality": 90,
+          "ssim": 0.9947
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "9799dfd7634e2e82",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-340.2fe70ea1.avif",
+          "bytes": 25803,
+          "quality": 75,
+          "ssim": 0.9955
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-340.d15aa750.webp",
+          "bytes": 38066,
+          "quality": 90,
+          "ssim": 0.9952
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-360.80bb7366.avif",
+          "bytes": 27192,
+          "quality": 75,
+          "ssim": 0.9955
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-360.1467cc40.webp",
+          "bytes": 39906,
+          "quality": 90,
+          "ssim": 0.9953
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-400.d046d9de.avif",
+          "bytes": 29949,
+          "quality": 75,
+          "ssim": 0.9952
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-wholegrain-eng-packshot-400.a20a5a56.webp",
+          "bytes": 43506,
+          "quality": 90,
+          "ssim": 0.9948
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_BG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_BG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "66922c65ecfd1bfa",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-340.5a2b542e.avif",
+          "bytes": 19737,
+          "quality": 75,
+          "ssim": 0.9976
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-340.a26cb869.webp",
+          "bytes": 29380,
+          "quality": 90,
+          "ssim": 0.9973
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-360.897285d1.avif",
+          "bytes": 20801,
+          "quality": 75,
+          "ssim": 0.9977
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-360.71352bc4.webp",
+          "bytes": 31234,
+          "quality": 90,
+          "ssim": 0.9972
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-400.7bdade58.avif",
+          "bytes": 23953,
+          "quality": 75,
+          "ssim": 0.9982
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-bg-table-400.4da6f1d9.webp",
+          "bytes": 37134,
+          "quality": 90,
+          "ssim": 0.998
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_ENG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_ENG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "df7e549a3e4af4a8",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-340.66967b74.avif",
+          "bytes": 19482,
+          "quality": 75,
+          "ssim": 0.9964
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-340.a89e4933.webp",
+          "bytes": 29780,
+          "quality": 90,
+          "ssim": 0.997
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-360.49059cb3.avif",
+          "bytes": 21114,
+          "quality": 75,
+          "ssim": 0.9978
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-360.a0efd957.webp",
+          "bytes": 32348,
+          "quality": 90,
+          "ssim": 0.9973
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-400.93e8d0d7.avif",
+          "bytes": 24255,
+          "quality": 75,
+          "ssim": 0.9982
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/natur-organic-sticks-spelt-eng-table-400.1cd7b9e8.webp",
+          "bytes": 37120,
+          "quality": 90,
+          "ssim": 0.9979
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/Organic-Spelt-Rye-Cracker-Package-1-ru7nw6rybzepimrmefgzh1av8onl7vcpswgevbi73k.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/Organic-Spelt-Rye-Cracker-Package-1-ru7nw6rybzepimrmefgzh1av8onl7vcpswgevbi73k.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "ac2a8867d08631df",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-340.89d23172.avif",
+          "bytes": 36917,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-340.04b52d1f.webp",
+          "bytes": 49364,
+          "quality": 90,
+          "ssim": 0.9947
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-360.6136fcf2.avif",
+          "bytes": 39537,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-360.fa0871e8.webp",
+          "bytes": 53318,
+          "quality": 90,
+          "ssim": 0.9944
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-400.e90a2801.avif",
+          "bytes": 39860,
+          "quality": 75,
+          "ssim": 0.9939
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/organic-spelt-rye-cracker-package-1-400.f97ab1e8.webp",
+          "bytes": 53896,
+          "quality": 90,
+          "ssim": 0.9946
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/crackers-BG-ru7puebythiqq2s7fa0s7thclsll5z2xsep2cdekc0.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/crackers-BG-ru7puebythiqq2s7fa0s7thclsll5z2xsep2cdekc0.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "e0eb955149943746",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/crackers-bg-340.2c7e87b9.avif",
+          "bytes": 35361,
+          "quality": 75,
+          "ssim": 0.995
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/crackers-bg-340.5b95e7ac.webp",
+          "bytes": 53054,
+          "quality": 90,
+          "ssim": 0.9957
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/crackers-bg-360.85c8de67.avif",
+          "bytes": 37931,
+          "quality": 75,
+          "ssim": 0.9951
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/crackers-bg-360.b28cc392.webp",
+          "bytes": 58120,
+          "quality": 90,
+          "ssim": 0.9957
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/crackers-bg-400.b7dd148d.avif",
+          "bytes": 39476,
+          "quality": 75,
+          "ssim": 0.9952
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/crackers-bg-400.037187ec.webp",
+          "bytes": 58698,
+          "quality": 90,
+          "ssim": 0.9959
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/crackers_table-1-peujswhjaqkvnlx4hx4ucf1kf5hhzqrqkyu7ah3m28.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/crackers_table-1-peujswhjaqkvnlx4hx4ucf1kf5hhzqrqkyu7ah3m28.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "b003dfe073475b32",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/crackers-table-1-340.7005eb27.avif",
+          "bytes": 21437,
+          "quality": 75,
+          "ssim": 0.9985
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/crackers-table-1-340.b8498cc8.webp",
+          "bytes": 32196,
+          "quality": 90,
+          "ssim": 0.9981
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/crackers-table-1-360.636eee90.avif",
+          "bytes": 22244,
+          "quality": 75,
+          "ssim": 0.9954
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/crackers-table-1-360.8488fffd.webp",
+          "bytes": 34026,
+          "quality": 90,
+          "ssim": 0.9948
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/crackers-table-1-400.6e56283f.avif",
+          "bytes": 24866,
+          "quality": 75,
+          "ssim": 0.9991
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/crackers-table-1-400.2861824b.webp",
+          "bytes": 37398,
+          "quality": 90,
+          "ssim": 0.9983
+        }
+      ]
+    },
+    "media/originals/elementor/thumbs/packshot-test-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png": {
+      "kind": "graphic",
+      "alpha": true,
+      "source": "media/originals/elementor/thumbs/packshot-test-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+      "width": 400,
+      "height": 600,
+      "aboveFold": {
+        "390": true,
+        "1440": true
+      },
+      "rendered": 400,
+      "slots": {
+        "390": 315,
+        "768": 339,
+        "1440": 400
+      },
+      "sizes": "(max-width: 767px) 315px, (max-width: 1024px) 339px, 400px",
+      "inputKey": "31eb33f57831e52d",
+      "variants": [
+        {
+          "w": 340,
+          "h": 510,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-340.7ccfd24d.avif",
+          "bytes": 27800,
+          "quality": 75,
+          "ssim": 0.9955
+        },
+        {
+          "w": 340,
+          "h": 510,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-340.dbb3a877.webp",
+          "bytes": 36994,
+          "quality": 90,
+          "ssim": 0.995
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-360.b29c2317.avif",
+          "bytes": 29254,
+          "quality": 75,
+          "ssim": 0.9959
+        },
+        {
+          "w": 360,
+          "h": 540,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-360.eeabe6ff.webp",
+          "bytes": 39750,
+          "quality": 90,
+          "ssim": 0.9957
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "avif",
+          "file": "assets/img/packshot-test-1-400.dd4b82ae.avif",
+          "bytes": 31010,
+          "quality": 75,
+          "ssim": 0.9962
+        },
+        {
+          "w": 400,
+          "h": 600,
+          "format": "webp",
+          "file": "assets/img/packshot-test-1-400.dfdd270d.webp",
+          "bytes": 41720,
+          "quality": 90,
+          "ssim": 0.9957
+        }
+      ]
+    }
+  },
+  "icons": {
+    "favicon-32.png": {
+      "file": "assets/icons/favicon-32.png",
+      "bytes": 1810
+    },
+    "apple-touch-icon.png": {
+      "file": "assets/icons/apple-touch-icon.png",
+      "bytes": 18105
+    },
+    "favicon.ico": {
+      "file": "assets/icons/favicon.ico",
+      "bytes": 1832
+    }
+  },
+  "totals": {
+    "originalBytes": 17016290,
+    "derivedBytes": 46539147
+  }
+}
