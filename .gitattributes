@@ -5,3 +5,5 @@
 *.webp binary
 *.woff2 binary
 *.pdf binary
+*.woff binary
+*.ico binary
