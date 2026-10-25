@@ -1,0 +1,442 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "lang": "en",
+      "slug": "home",
+      "template": "home",
+      "pair": "/bg/",
+      "title": "NATUR – Organic Wholegrain Sticks & Crackers from Bulgaria",
+      "description": "NATUR makes organic wholegrain sticks and crackers in Bulgaria: vegan certified, clean label, baked with coconut oil. Family producer and exporter.",
+      "ogImage": "media/originals/2021/07/home-seo.png",
+      "breadcrumb": []
+    },
+    {
+      "path": "/products/",
+      "lang": "en",
+      "slug": "products",
+      "template": "products",
+      "pair": "/bg/produkti/",
+      "title": "Organic Wholegrain Sticks & Crackers – Products | NATUR",
+      "description": "Organic wholegrain rye, spelt, einkorn and oat sticks plus crackers from NATUR. Vegan certified, clean label, coconut oil instead of palm oil.",
+      "ogImage": "media/originals/2021/07/products-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        }
+      ]
+    },
+    {
+      "path": "/about-us/",
+      "lang": "en",
+      "slug": "about-us",
+      "template": "about",
+      "pair": "/bg/za-nas/",
+      "title": "About NATUR – Family Producer & Exporter of Organic Snacks",
+      "description": "NATUR BG LTD is a family-run Bulgarian producer and exporter of organic wholegrain snacks, vegan certified and made with premium organic ingredients.",
+      "ogImage": "media/originals/2021/07/about-us-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "About us",
+          "path": "/about-us/"
+        }
+      ]
+    },
+    {
+      "path": "/contact/",
+      "lang": "en",
+      "slug": "contact",
+      "template": "contact",
+      "pair": "/bg/kontakti/",
+      "title": "Contact NATUR BG – Organic Snacks Producer, Bulgaria",
+      "description": "Contact NATUR BG LTD in Kazanlak, Bulgaria: email natur@natur.bg or call us about our organic wholegrain sticks and crackers.",
+      "ogImage": "media/originals/2021/07/contact-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Contact",
+          "path": "/contact/"
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "lang": "en",
+      "slug": "privacy-policy",
+      "template": "legal",
+      "pair": "/bg/politika-za-lichni-danni/",
+      "title": "Privacy Policy | NATUR",
+      "description": "How NATUR BG LTD collects and uses personal data on natur.bg: types of data, purposes, storage, sharing and your rights.",
+      "ogImage": "media/originals/2021/07/home-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Privacy Policy",
+          "path": "/privacy-policy/"
+        }
+      ]
+    },
+    {
+      "path": "/cookie-policy/",
+      "lang": "en",
+      "slug": "cookie-policy",
+      "template": "legal",
+      "pair": "/bg/politika-za-biskvitki/",
+      "title": "Cookie Policy | NATUR",
+      "description": "Which cookies natur.bg uses and why, and how to allow or decline them. Google Analytics cookies are set only after you allow them.",
+      "ogImage": "media/originals/2021/07/home-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Cookie Policy",
+          "path": "/cookie-policy/"
+        }
+      ]
+    },
+    {
+      "path": "/organic-rye-sticks-wholegrain/",
+      "lang": "en",
+      "slug": "organic-rye-sticks-wholegrain",
+      "template": "product",
+      "pair": "/bg/bio-palnozarnesti-soleti-ot-raj/",
+      "title": "Organic Wholegrain Rye Sticks – Vegan, Sourdough | NATUR",
+      "description": "Organic wholegrain rye sticks by NATUR: vegan certified, clean label, made with sourdough and Himalayan salt, baked with coconut oil, no palm oil.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Packshot-new.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        },
+        {
+          "name": "Organic Rye Sticks Wholegrain",
+          "path": "/organic-rye-sticks-wholegrain/"
+        }
+      ]
+    },
+    {
+      "path": "/organic-wholegrain-spelt-sticks/",
+      "lang": "en",
+      "slug": "organic-wholegrain-spelt-sticks",
+      "template": "product",
+      "pair": "/bg/bio-palnozarnesti-soleti-ot-spelta/",
+      "title": "Organic Wholegrain Spelt Sticks – Vegan | NATUR Bulgaria",
+      "description": "Organic wholegrain spelt sticks by NATUR: vegan certified, clean label, made with Himalayan salt and baked with coconut oil, no palm oil.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        },
+        {
+          "name": "Organic Spelt Sticks Wholegrain",
+          "path": "/organic-wholegrain-spelt-sticks/"
+        }
+      ]
+    },
+    {
+      "path": "/organic-einkorn-sticks-wholegrain/",
+      "lang": "en",
+      "slug": "organic-einkorn-sticks-wholegrain",
+      "template": "product",
+      "pair": "/bg/bio-palnozarnesti-soleti-ot-limets/",
+      "title": "Organic Wholegrain Einkorn Sticks – Vegan | NATUR Bulgaria",
+      "description": "Organic wholegrain einkorn sticks by NATUR: vegan certified, clean label, rich in fiber, baked with coconut oil and no palm oil. From Bulgaria.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        },
+        {
+          "name": "Organic Einkorn Sticks Wholegrain",
+          "path": "/organic-einkorn-sticks-wholegrain/"
+        }
+      ]
+    },
+    {
+      "path": "/organic-oat-sticks-with-turmeric/",
+      "lang": "en",
+      "slug": "organic-oat-sticks-with-turmeric",
+      "template": "product",
+      "pair": null,
+      "title": "Organic Oat Sticks with Turmeric – Vegan, Wholegrain | NATUR",
+      "description": "Organic wholegrain oat sticks with turmeric by NATUR: vegan certified, clean label, baked with coconut oil and no palm oil. Made in Bulgaria.",
+      "ogImage": "media/originals/2021/07/packshot-test-1.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        },
+        {
+          "name": "Organic Oat Sticks with Turmeric",
+          "path": "/organic-oat-sticks-with-turmeric/"
+        }
+      ]
+    },
+    {
+      "path": "/organic-crackers/",
+      "lang": "en",
+      "slug": "organic-crackers",
+      "template": "product",
+      "pair": "/bg/bio-krekeri/",
+      "title": "Organic Crackers – Vegan, Clean Label | NATUR Bulgaria",
+      "description": "Organic wholegrain crackers by NATUR with sesame and poppy seed: vegan certified, clean label, made with coconut oil. Family producer from Bulgaria.",
+      "ogImage": "media/originals/2021/10/crackers.png",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Products",
+          "path": "/products/"
+        },
+        {
+          "name": "Organic crackers",
+          "path": "/organic-crackers/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/",
+      "lang": "bg",
+      "slug": "home",
+      "template": "home",
+      "pair": "/",
+      "title": "НАТЮР – био пълнозърнести солети и крекери",
+      "description": "НАТЮР предлага био пълнозърнести солети и крекери – веган сертифицирани, с чист етикет, с кокосово масло, без палмово. Семейно производство от България.",
+      "ogImage": "media/originals/2021/07/home-bg-seo.png",
+      "breadcrumb": []
+    },
+    {
+      "path": "/bg/produkti/",
+      "lang": "bg",
+      "slug": "produkti",
+      "template": "products",
+      "pair": "/products/",
+      "title": "Био солети и крекери – веган, пълнозърнести | НАТЮР",
+      "description": "Био пълнозърнести солети от ръж, спелта и лимец и био крекери от НАТЮР – веган, с кокосово масло вместо палмово и с чист етикет, от България.",
+      "ogImage": "media/originals/2021/07/produkti-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Продукти",
+          "path": "/bg/produkti/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/za-nas/",
+      "lang": "bg",
+      "slug": "za-nas",
+      "template": "about",
+      "pair": "/about-us/",
+      "title": "За нас – семеен производител на био солети | НАТЮР",
+      "description": "НАТЮР БГ ЕООД е семейна компания от България, която произвежда и изнася био пълнозърнести продукти – веган сертифицирани, от висококачествени съставки.",
+      "ogImage": "media/originals/2021/07/za-nas-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "За нас",
+          "path": "/bg/za-nas/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/kontakti/",
+      "lang": "bg",
+      "slug": "kontakti",
+      "template": "contact",
+      "pair": "/contact/",
+      "title": "Контакти | НАТЮР БГ – био солети и крекери",
+      "description": "Свържете се с НАТЮР БГ в Казанлък: пишете на natur@natur.bg или се обадете по телефон за био пълнозърнести солети и крекери.",
+      "ogImage": "media/originals/2021/07/kontakti-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Контакти",
+          "path": "/bg/kontakti/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/politika-za-lichni-danni/",
+      "lang": "bg",
+      "slug": "politika-za-lichni-danni",
+      "template": "legal",
+      "pair": "/privacy-policy/",
+      "title": "Политика за защита на личните данни | НАТЮР",
+      "description": "Как НАТЮР БГ събира и използва лични данни на natur.bg: видове данни, цели, съхранение, споделяне и вашите права.",
+      "ogImage": "media/originals/2021/07/home-bg-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Политика за защита на личните данни",
+          "path": "/bg/politika-za-lichni-danni/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/politika-za-biskvitki/",
+      "lang": "bg",
+      "slug": "politika-za-biskvitki",
+      "template": "legal",
+      "pair": "/cookie-policy/",
+      "title": "Политика за бисквитки | НАТЮР",
+      "description": "Какви бисквитки използва natur.bg и защо, и как да ги разрешите или откажете. Бисквитките на Google Analytics се задават само ако ги разрешите.",
+      "ogImage": "media/originals/2021/07/home-bg-seo.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Политика за бисквитки",
+          "path": "/bg/politika-za-biskvitki/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/bio-palnozarnesti-soleti-ot-raj/",
+      "lang": "bg",
+      "slug": "bio-palnozarnesti-soleti-ot-raj",
+      "template": "product",
+      "pair": "/organic-rye-sticks-wholegrain/",
+      "title": "Био пълнозърнести солети от ръж – веган, с квас | НАТЮР",
+      "description": "Био пълнозърнести солети от ръж от НАТЮР – веган сертифицирани, с квас и хималайска сол, изпечени с кокосово масло, без палмово. Чист етикет.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Продукти",
+          "path": "/bg/produkti/"
+        },
+        {
+          "name": "Био пълнозърнести солети от ръж",
+          "path": "/bg/bio-palnozarnesti-soleti-ot-raj/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/bio-palnozarnesti-soleti-ot-spelta/",
+      "lang": "bg",
+      "slug": "bio-palnozarnesti-soleti-ot-spelta",
+      "template": "product",
+      "pair": "/organic-wholegrain-spelt-sticks/",
+      "title": "Био пълнозърнести солети от спелта – веган | НАТЮР",
+      "description": "Био пълнозърнести солети от спелта от НАТЮР – веган сертифицирани, богати на фибри, изпечени с кокосово, а не с палмово масло. Чист етикет.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Продукти",
+          "path": "/bg/produkti/"
+        },
+        {
+          "name": "Био пълнозърнести солети от спелта",
+          "path": "/bg/bio-palnozarnesti-soleti-ot-spelta/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/bio-palnozarnesti-soleti-ot-limets/",
+      "lang": "bg",
+      "slug": "bio-palnozarnesti-soleti-ot-limets",
+      "template": "product",
+      "pair": "/organic-einkorn-sticks-wholegrain/",
+      "title": "Био пълнозърнести солети от лимец – веган | НАТЮР",
+      "description": "Био пълнозърнести солети от лимец от НАТЮР – веган сертифицирани, богати на фибри, изпечени с кокосово масло. Продукт с чист етикет.",
+      "ogImage": "media/originals/2021/07/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Продукти",
+          "path": "/bg/produkti/"
+        },
+        {
+          "name": "Био пълнозърнести солети от лимец",
+          "path": "/bg/bio-palnozarnesti-soleti-ot-limets/"
+        }
+      ]
+    },
+    {
+      "path": "/bg/bio-krekeri/",
+      "lang": "bg",
+      "slug": "bio-krekeri",
+      "template": "product",
+      "pair": "/organic-crackers/",
+      "title": "Био крекери – веган, с чист етикет | НАТЮР",
+      "description": "Био крекери от НАТЮР с ръжено и спелтово брашно, сусам и маково семе – веган, пълнозърнести, с кокосово масло. Продукт с чист етикет.",
+      "ogImage": "media/originals/2021/10/crackers_BG-cut.png",
+      "breadcrumb": [
+        {
+          "name": "Начало",
+          "path": "/bg/"
+        },
+        {
+          "name": "Продукти",
+          "path": "/bg/produkti/"
+        },
+        {
+          "name": "Био крекери",
+          "path": "/bg/bio-krekeri/"
+        }
+      ]
+    }
+  ]
+}

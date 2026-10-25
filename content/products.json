@@ -1,0 +1,500 @@
+{
+  "products": [
+    {
+      "id": "organic-rye-sticks-wholegrain",
+      "en": {
+        "path": "/organic-rye-sticks-wholegrain/",
+        "name": "ORGANIC RYE STICKS WHOLEGRAIN",
+        "short": "Organic Rye Sticks Wholegrain",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_tranpsparent-peujsvjp3wjlbzyhneq7rxa3trm4s1o08u6pt7508g.png",
+            "alt": "Organic Rye Sticks Wholegrain – package",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Rye Sticks Wholegrain – nutrition facts",
+            "role": "nutrition"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_ENG_Table-Minerals-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png",
+            "alt": "Organic Rye Sticks Wholegrain – nutrition facts",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Vegan",
+          "Clean label product",
+          "Baked with coconut oil and no palm oil!",
+          "No GMO, artificial colorants or flavors"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Flavor",
+            "html": "<p>This is what we call a feel-good and healthy deal! Made with sourdough and Himalayan salt, our rye sticks come in handy when you need a wholesome bite with a fresh and crunchy taste!</p><p>The more you eat, the more you want. And it’s guilt-free too!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Ingredients",
+            "html": "<div class=\"scroll-table\"><table> <tbody> <tr> <td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td> </tr> <tr> <td>Rye flour wholegrain* 86.7%</td> <td>Non-hydrogenated coconut oil* 6.5%</td> <td>Rye sourdough*(rye flour, water) 2.2%</td> <td>Himalayan salt 0.98%</td> </tr> </tbody> </table></div> * ingredients of organic agriculture"
+          },
+          {
+            "id": "benefits",
+            "label": "Health Benefits",
+            "html": "<ul><li><strong>Gives you minerals & vitamins.</strong> Rye is a natural source of Magnesium, Zink, Potassium, as it also contains B complex vitamins: B1, B2, B3, B5, B6 and B9.</li><li><strong>Also healthy fiber!</strong> Rye flour has 4 times the fiber and 20% fewer calories than the usual white flour. Fibers enhance digestive health and naturally stimulate bowel function, thus reducing the risk of constipation.</li><li><strong>Sourdough-made.</strong> Made with sourdough which acts as a natural prebiotic to improve digestion and prevent constipation.</li><li><strong>Less hunger, more fullness.</strong> Certain studies show that rye products can satiate a person’s hunger for as long as 8 hours, helping us get full with less food, but without strictly sticking to a specific diet.</li><li><strong>Lower glycemic index = healthy.</strong> This means rye sticks are digested and absorbed more slowly, creating a slow release of glucose into the bloodstream which is proven to help elevate energy levels and aid weight management.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-wholegrain-spelt-sticks",
+          "organic-einkorn-sticks-wholegrain",
+          "organic-oat-sticks-with-turmeric"
+        ],
+        "backgrounds": [
+          {
+            "src": "media/originals/2021/05/Organic-rye-sticks-wholegrain.jpg",
+            "position": "50% -68px",
+            "size": "contain"
+          },
+          {
+            "src": "media/originals/2021/05/similar-products.png",
+            "position": "center right",
+            "size": "contain"
+          }
+        ]
+      },
+      "bg": {
+        "path": "/bg/bio-palnozarnesti-soleti-ot-raj/",
+        "name": "БИО ПЪЛНОЗЪРНЕСТИ СОЛЕТИ ОТ РЪЖ",
+        "short": "Био пълнозърнести солети от ръж",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Био пълнозърнести солети от ръж – опаковка",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+            "alt": "Био пълнозърнести солети от ръж – хранителни стойности",
+            "role": "nutrition"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_RYE-Wholegrain_BG_Table-Minerals-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Био пълнозърнести солети от ръж – хранителни стойности",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Веган",
+          "Продукт с чист етикет",
+          "Изпечени с кокосово масло",
+          "Без ГМО, изкуствени оцветители и овкусители",
+          "Богати на фибри"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Вкус",
+            "html": "<p>Ето това наричаме първокласен, здравословен избор! Солетите от ръж са направени с квас и хималайска сол, което ги прави идеалното лакомство, когато имате нужда от здравословна, органична храна с хрупкав вкус!</p><p>Колкото повече хапвате, толкова повече искате. И то без угризения!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Съставки",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Пълнозърнесто ръжено брашно* 86.7%</td><td>Нехидрогенирано кокосово масло* 6.5%</td><td>Квас * (ръжено брашно, вода) 2.2%</td><td>Хималайска сол 0.98%</td></tr></tbody></table></div><p>* съставки на биологичното земеделие</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Ползи",
+            "html": "<ul> <li><strong>Предоставят минерали и витамини.</strong> Ръжта не само е естествен източник на магнезий, цинк и калий, но също така съдържа и витамините В1, В2, В3, В5, В6 и В9.</li> <li><strong>Богати на здравословни фибри. </strong>Ръженото брашно има 4 пъти повече фибри и 20% по-малко калории от обичайното бяло брашно. Фибрите подобряват храносмилането и чревната микрофлора, намалявайки риска от запек.</li> <li><strong>Направени с квас</strong> – той действа като естествен пребиотик за подобряване на храносмилането.<strong> </strong></li> <li><strong>По-малко гладни, повече сити.</strong> Определени проучвания показват, че продуктите от ръж могат да заситят глада на човек за цели 8 часа, помагайки ни да се заситим с по-малко храна, без да се придържаме към стриктна диета.</li> <li><strong>По-нисък гликемичен индекс. </strong>Това означава, че ръжените солети се усвояват от организма постепенно, допринасяйки за бавното освобождаване на глюкоза в кръвта, което способства за повишаване на енергията и подпомага поддържането на здравословно тегло.</li> </ul>"
+          }
+        ],
+        "related": [
+          "organic-wholegrain-spelt-sticks",
+          "organic-einkorn-sticks-wholegrain"
+        ],
+        "backgrounds": [
+          {
+            "src": "media/originals/2021/05/Organic-rye-sticks-wholegrain.jpg",
+            "position": "50% -68px",
+            "size": "contain"
+          },
+          {
+            "src": "media/originals/2021/05/similar-products.png",
+            "position": "center right",
+            "size": "contain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "organic-wholegrain-spelt-sticks",
+      "en": {
+        "path": "/organic-wholegrain-spelt-sticks/",
+        "name": "ORGANIC SPELT STICKS WHOLEGRAIN",
+        "short": "Organic Spelt Sticks Wholegrain",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Spelt Sticks Wholegrain – package",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_ENG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+            "alt": "Organic Spelt Sticks Wholegrain – nutrition facts",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Vegan",
+          "Clean label product",
+          "Made with sourdough",
+          "Baked with coconut oil and no palm oil!",
+          "No GMO, artificial colorants or flavors"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Flavor",
+            "html": "<p>Our spelt sticks have a pure and natural taste, with a crispy finish that makes them hard to put away! And that’s good because while they don’t contain any animal-derived ingredients, they offer a simple and healthy mix of micronutrients and fiber.</p><p>The more you eat, the more you want. And it’s guilt-free too!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Ingredients",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Spelt flour wholegrain* 86.7%</td><td>Non-hydrogenated coconut oil* 6.5%</td><td>Spelt sourdough*(spelt flour, water) 2.2%</td><td>Himalayan salt 1.3%</td></tr></tbody></table></div><p>* ingredients of organic agriculture</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Health Benefits",
+            "html": "<ul><li><strong>Source of protein.</strong> Proteins contain all of the nine essential amino acids needed by the human body to repair and build cells. The molecular structure of the protein in spelt is both brittle and soluble, which makes it very easy to digest and use as energy.</li><li><strong>Good for the bloated belly. </strong>Sensitive digestive systems tolerate spelt far better than the varieties of modern wheat. This makes spelt a wonderful natural way to reduce the heavy feeling in the stomach and improve digestion.</li><li><strong>Lower glycemic index.</strong> Spelt is digested and absorbed more slowly, creating a slow release of glucose into the bloodstream which is proven to help elevate energy levels and aid weight management.</li><li><strong>Rich in micronutrients. </strong>Spelt is replete with magnesium, which is important for activating muscles and creating energy in the body. It also contains potassium and manganese which are vital for the normal functioning of the nervous system.</li><li><strong>High in vitamin B & E. </strong>They help break down and release energy from food, while keeping the nerves and muscle tissues healthy. Spelt also contains vitamin E which helps to protect the cells from the damaging effects of free radicals.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-einkorn-sticks-wholegrain",
+          "organic-oat-sticks-with-turmeric"
+        ],
+        "backgrounds": [
+          {
+            "src": "media/originals/2021/07/Organic-spelt-sticks-wholegrain.jpg",
+            "position": "50% -68px",
+            "size": "65% auto"
+          }
+        ]
+      },
+      "bg": {
+        "path": "/bg/bio-palnozarnesti-soleti-ot-spelta/",
+        "name": "БИО, ПЪЛНОЗЪРНЕСТИ СОЛЕТИ ОТ СПЕЛТА",
+        "short": "Био пълнозърнести солети от спелта",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT-Wholegrain_BG_Packshot-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+            "alt": "Био пълнозърнести солети от спелта – опаковка",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_SPELT_BG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Био пълнозърнести солети от спелта – хранителни стойности",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Веган",
+          "Добър източник на протеин",
+          "Продукт с чист етикет",
+          "Приготвени с квас",
+          "Изпечени с кокосово, а не с палмово масло",
+          "Без ГМО, изкуствени оцветители и овкусители",
+          "Богати на фибри"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Вкус",
+            "html": "<p>Нашите солети от спелта имат чист и натурален вкус с хрупкав завършек – започнете ли ги веднъж, трудно е да ги оставите настрана! И в това няма проблем, защото в солетите от спелта няма никакви животински съставки, но пък има проста и здравословна комбинация от микроелементи и фибри.</p><p>Колкото повече хапвате, толкова повече искате. И то без угризения!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Съставки",
+            "html": "<div class=\"scroll-table\"> <table> <tbody> <tr> <td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td> </tr> <tr> <td>Пълнозърнесто брашно от спелта* 86.7%</td> <td>Нехидрогенирано кокосово масло* 6.5%</td> <td>Квас* (брашно от спелта, вода) <br> 2.2%</td> <td>Хималайска сол <br>1.3%<br> </td> </tr> </tbody> </table> </div> * съставки на биологичното земеделие"
+          },
+          {
+            "id": "benefits",
+            "label": "Ползи",
+            "html": "<ul><li><strong>Прекрасен източник на протеин.</strong> Протеините съдържат всички 9 незаменими аминокиселини, необходими на човешкото тяло за възстановяване на клетките и изграждане на нови такива. Молекулярната структура на протеина в спелтата е силно податлива на разтваряне, което прави солетите от спелта изключително лесно смилаема храна, която веднага се превръща в енергия.</li><li><strong>Помага при подуване на корема.</strong> Хората с по-чувствителна храносмилателна система понасят спелтата много по-добре от съвременната пшеница. Това прави спелтата естествен продукт за намаляване на тежестта и подуването в стомаха, както и за цялостно подобряване на храносмилането.</li><li><strong>По-нисък гликемичен индекс.</strong> Солетите от спелта се усвояват от организма постепенно, допринасяйки за бавното освобождаване на глюкоза в кръвта, което доказано помага за повишаване на енергията и подпомага поддържането на здравословно тегло. </li><li><strong>Богата на микроелементи.</strong> Магнезият в спелтата допринася за изграждането на мускулна маса и увеличава енергичността. Освен това спелтата е напълно натурален източник на калий и манган, които са жизнено важни за нормалното функциониране на нервната система.</li><li><strong>Високо съдържание на витамин В и Е. </strong>Витамин B подпомага разграждането на храната и превръщането й в енергия, като същевременно поддържа дейността на нервната система и укрепва мускулите. От друга страна витамин Е предпазва клетките от вредното въздействие на свободните радикали.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-einkorn-sticks-wholegrain"
+        ],
+        "backgrounds": [
+          {
+            "src": "media/originals/2021/07/Organic-spelt-sticks-wholegrain.jpg",
+            "position": "50% -68px",
+            "size": "65% auto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "organic-einkorn-sticks-wholegrain",
+      "en": {
+        "path": "/organic-einkorn-sticks-wholegrain/",
+        "name": "ORGANIC EINKORN STICKS WHOLEGRAIN",
+        "short": "Organic Einkorn Sticks Wholegrain",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Packshot-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Einkorn Sticks Wholegrain – package",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_ENG_Table-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Einkorn Sticks Wholegrain – nutrition facts",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Vegan",
+          "Rich in fiber",
+          "Clean label product",
+          "Made with sourdough",
+          "Baked with coconut oil and no palm oil!",
+          "No GMO, artificial colorants or flavors"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Flavor",
+            "html": "<p>Made with high-quality raw ingredients and extremely low gluten, our crunchy wholegrain einkorn sticks are perfect for those who pursue a healthy lifestyle and love delicious vegan goodies! You can eat them anywhere, anytime.</p><p>The more you eat, the more you want. And it’s guilt-free too!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Ingredients",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Einkorn flour wholegrain* 86.7%</td><td>Non-hydrogenated coconut oil* 6.5%</td><td>Einkorn sourdough*(einkorn flour, water) 2.2%</td><td>Himalayan salt 2.1%</td></tr></tbody></table></div><p>* ingredients of organic agriculture</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Health Benefits",
+            "html": "<ul><li><strong>Rich in beta-carotene.</strong> Einkorn has 3 to 4 times the amount of beta-carotene (vitamin A) compared to regular wheat. Because of this, it helps boost immunity.</li><li><strong>Antioxidants inside!</strong> The antioxidants lutein and zeaxanthin in einkorn are especially beneficial to the eyes since they act as a shield against the damaging effects of light and naturally enhance eye health.</li><li><strong>Very low in gluten</strong>. Einkorn might technically be wheat, but unlike wheat, it is a simple low gluten grain. This makes it a perfect choice for those who wish to stick to a healthy eating routine and steer clear of gluten as much as possible.</li><li><strong>Gives you a good dose of protein & essential fats.</strong> Protein keeps us full and energetic for longer, also aiding muscle build and weight management. On the other hand, the essential fats found in einkorn nourish the brain and the nervous system to keep it running properly.</li><li><strong>Acts as a natural prebiotic.</strong> Thanks to the high amount of fiber in it, Einkorn helps boost the levels of gut-friendly bacteria, thus improving digestive health and preventing constipation.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-wholegrain-spelt-sticks",
+          "organic-oat-sticks-with-turmeric"
+        ],
+        "backgrounds": []
+      },
+      "bg": {
+        "path": "/bg/bio-palnozarnesti-soleti-ot-limets/",
+        "name": "БИО ПЪЛНОЗЪРНЕСТИ СОЛЕТИ ОТ ЛИМЕЦ",
+        "short": "Био пълнозърнести солети от лимец",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Packshot-peujsulux2ib0dzuswbl7fin8dqrkck9wpj8bx6eeo.png",
+            "alt": "Био пълнозърнести солети от лимец – опаковка",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_EINKORN-Wholegrain_BG_Table-peujsyd7oengatue6xy3hekhlx88f4z79856910tps.png",
+            "alt": "Био пълнозърнести солети от лимец – хранителни стойности",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Веган",
+          "Ниско съдържание на глутен",
+          "Добър източник на протеин",
+          "Продукт с чист етикет",
+          "Приготвени с квас",
+          "Изпечени с кокосово масло",
+          "Без ГМО, изкуствени оцветители и овкусители"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Вкус",
+            "html": "<p>Изработени от висококачествени продукти и с изключително ниско съдържание на глутен, нашите хрупкави пълнозърнести солети от лимец са идеални за тези, които следват здравословен начин на живот и обичат вкусни веган екстри! Можете да ги хапвате навсякъде и по всяко време.</p><p>Колкото повече ядете, толкова повече искате. И е без угризения!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Съставки",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Пълнозърнесто брашно от лимец* 86.7%</td><td>Нехидрогенирано кокосово масло* 6.5%</td><td>Kвас*(брашно от лимец, вода) 2.2%</td><td>Хималайска сол 2.1%</td></tr></tbody></table></div><p>* съставки на биологичното земеделие</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Ползи",
+            "html": "<ul><li><strong>Богати на бета-каротин</strong>. Лимецът съдържа 3 до 4 пъти повече бета-каротин (витамин А) в сравнение с обикновената пшеница. Поради това той помага за усилването на имунитета и естествените защитни сили на организма.</li><li><strong>Пълни с антиоксиданти.</strong> Антиоксидантите лутеин и зеаксантин са особено полезни за очите. Те действат като щит срещу вредното въздействие на светлината и естествено подобряват цялостното здраве на очите.</li><li><strong>Много ниско съдържание на глутен. </strong>Лимецът технически може да бъде наречен пшеница, но за разлика от пшеницата той е зърнена култура с изключително ниско съдържание на глутен. Това го прави идеален избор за тези, които спазват здравословен хранителен режим и държат да избягват глутена, доколкото е възможно повече.</li><li><strong>Има протеини и основни мазнини. </strong>Протеините ни поддържат сити и трудоспособни за по-дълго време, като също така подпомагат изграждането на мускулна маса и борбата с килограмите. От друга страна, основните мазнини, намиращи се в лимеца, поддържат дейността на мозъка и подпомагат нервната система.</li><li><strong>Действат като естествен пребиотик. </strong>Благодарение на голямото количество фибри в него, лимецът помага за подобряване на чревната микрофлора, като по този начин подобрява функционирането на цялата храносмилателна система и предотвратява запека.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-wholegrain-spelt-sticks"
+        ],
+        "backgrounds": []
+      }
+    },
+    {
+      "id": "organic-oat-sticks-with-turmeric",
+      "en": {
+        "path": "/organic-oat-sticks-with-turmeric/",
+        "name": "ORGANIC OAT STICKS with TURMERIC",
+        "short": "Organic Oat Sticks with Turmeric",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/packshot-test-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Oat Sticks with Turmeric – package",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/NATUR_Organic-Sticks_OAT_ENG_Table-1-peujszb1v8oqmft11gcq1wby7b3lmu2xlcsnqazfjk.png",
+            "alt": "Organic Oat Sticks with Turmeric – nutrition facts",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Vegan",
+          "Clean label product",
+          "Baked with coconut oil and no palm oil!",
+          "Made with sourdough",
+          "No GMO, artificial colorants or flavors"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Flavor",
+            "html": "<p>A real delight to the senses, our oat sticks taste crunchy and savory, since we added turmeric to this recipe for a spicier twist! Their nutritious profile fits nicely with your healthy everyday routine and the package fits perfectly into one hand – super easy to eat them anywhere, anytime.</p><p>The more you eat, the more you want. And it’s guilt-free too!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Ingredients",
+            "html": "<div class=\"scroll-table\"> <table> <tbody> <tr> <td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/sourdough-icon-1.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td> <td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td> </tr> <tr> <td>Oat flour wholegrain* 55%</td> <td>Spelt flour wholegrain* 31.4%</td> <td>Non-hydrogenated coconut oil* 6.5%</td> <td>Spelt sourdough*(spelt flour, water) 2.2%</td> <td>Himalayan salt 1.1%</td> <td>Turmeric 0.3%</td> </tr> </tbody> </table> </div> * ingredients of organic agriculture"
+          },
+          {
+            "id": "benefits",
+            "label": "Health Benefits",
+            "html": "<ul><li><strong>Important vitamins inside. </strong>Oat sticks come packed with vitamins and minerals. To name a few – manganese, phosphorus, magnesium, copper, iron, zinc, folate, vitamin B1 and B5.</li><li><strong>Rich in antioxidants.</strong> Oat actually contains a unique group of antioxidants called avenanthramides (what a name!), which are almost solely found in oats, and have a powerful anti-inflammatory effect.</li><li> <strong>Less hunger, more fullness.</strong> Apart from containing a good amount of healthy ingredients, oat also can enhance the feeling of satiety and help us get full with less food.</li><li><strong>Sprinkled with turmeric. </strong>This exotic ingredient not only compliments the delicious taste of the oat sticks, but it also has an anti-inflammatory effect.</li><li><strong>Lower glycemic index = healthy.</strong> This means oat sticks are digested and absorbed more slowly, creating a slow release of glucose into the bloodstream which is proven to help elevate energy levels and aid weight management.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-wholegrain-spelt-sticks",
+          "organic-einkorn-sticks-wholegrain"
+        ],
+        "backgrounds": [
+          {
+            "src": "media/originals/2021/10/8-scaled.jpg",
+            "position": "50% -68px",
+            "size": "contain"
+          },
+          {
+            "src": "media/originals/2021/05/similar-products.png",
+            "position": "center right",
+            "size": "contain"
+          }
+        ]
+      },
+      "bg": null
+    },
+    {
+      "id": "organic-crackers",
+      "en": {
+        "path": "/organic-crackers/",
+        "name": "ORGANIC CRACKERS WHOLEGRAIN",
+        "short": "Organic crackers",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/Organic-Spelt-Rye-Cracker-Package-1-ru7nw6rybzepimrmefgzh1av8onl7vcpswgevbi73k.png",
+            "alt": "Organic crackers – package",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/crackers_table-1-peujswhjaqkvnlx4hx4ucf1kf5hhzqrqkyu7ah3m28.png",
+            "alt": "Organic crackers – nutrition facts",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Vegan",
+          "Good dose of protein",
+          "Clean label product",
+          "Baked with coconut oil and no palm oil!",
+          "No GMO, artificial colorants or flavors"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Flavor",
+            "html": "<p>Crunchy wholegrain crackers sprinkled with sesame and poppy seed – the perfect bite for every healthy eater in need of some high-quality fuel! They come in three shapes – shells, suns and moons – keeping you entertained while you enjoy the yummy taste!</p><p>Very handy to eat anywhere, anytime.</p><p>The more you eat, the more you want. And it’s guilt-free too!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Ingredients",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Rye flour wholegrain* 39.9%</td><td>Non-hydrogenated coconut oil* 4.6%</td><td>Spelt flour wholegrain* 39.9%</td><td>Himalayan salt </td></tr></tbody></table></div><p>* ingredients of organic agriculture</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Health Benefits",
+            "html": "<ul><li><strong>Packed with vitamins & minerals. </strong>Wholegrain crackers are naturally high in important compounds that facilitate the better functioning of all systems in the body and help increase energy, focus and metabolism.</li><li><strong>Antioxidant effect. </strong>Thanks to their fiber content, the wholegrain crackers might help eliminate toxins through the work of the digestive system.</li><li> <strong>Less appetite, less often. </strong>Can reduce extra appetite, especially the craving for sugar and slow carbs, and this eventually can help with maintaining healthier weight.</li><li><strong>Supports healthy digestion.</strong> The fiber in whole grains supports healthy digestion, helps regularity and lowers the risk of constipation.</li><li><strong>Acts as a natural prebiotic.</strong> Whole grains help maintain the healthy microflora in the intestines, increasing the beneficial gut bacteria, which are very important for digestive health.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-wholegrain-spelt-sticks",
+          "organic-einkorn-sticks-wholegrain"
+        ],
+        "backgrounds": []
+      },
+      "bg": {
+        "path": "/bg/bio-krekeri/",
+        "name": "БИО КРЕКЕРИ ПЪЛНОЗЪРНЕСТИ",
+        "short": "Био крекери",
+        "images": [
+          {
+            "src": "media/originals/elementor/thumbs/crackers-BG-ru7puebythiqq2s7fa0s7thclsll5z2xsep2cdekc0.png",
+            "alt": "Био крекери – опаковка",
+            "role": "package"
+          },
+          {
+            "src": "media/originals/elementor/thumbs/crackers_table-1-peujswhjaqkvnlx4hx4ucf1kf5hhzqrqkyu7ah3m28.png",
+            "alt": "Био крекери – хранителни стойности",
+            "role": "nutrition"
+          }
+        ],
+        "info": [
+          "100% Веган",
+          "Добър източник на протеин",
+          "Продукт с чист етикет",
+          "Изпечени с кокосово масло",
+          "Без ГМО, изкуствени оцветители и овкусители",
+          "Богати на фибри"
+        ],
+        "tabs": [
+          {
+            "id": "flavor",
+            "label": "Вкус",
+            "html": "<p>Хрупкави пълнозърнести крекери, поръсени със сусам и маково семе – идеалното хапване за всеки, който държи да се храни здравословно и да зарежда тялото си само с висококачествено ‘гориво’! Нашите крекери се предлагат в три форми – мидички, слънца и луни – за да ви е забавно, докато се наслаждавате на превъзходния вкус!</p><p>Лесни за са похапване навсякъде и по всяко време.</p><p>Колкото повече хапвате, толкова повече искате. И то без угризения!</p>"
+          },
+          {
+            "id": "ingredients",
+            "label": "Съставки",
+            "html": "<div class=\"scroll-table\"><table><tbody><tr><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/oil-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/rye-flour-icon.svg\" alt=\"\" data-role=\"decor\"></td><td><img src=\"media/originals/2021/06/salt-icon.svg\" alt=\"\" data-role=\"decor\"></td></tr><tr><td>Ръжено брашно пълнозърнесто* 39.9%</td><td>Нехидрогенирано кокосово масло* 4.6%</td><td>Брашно от спелта пълнозърнесто* 39.9%</td><td>Хималайска сол</td></tr></tbody></table></div><p>* съставки от био земеделие</p>"
+          },
+          {
+            "id": "benefits",
+            "label": "Ползи",
+            "html": "<ul><li><strong>Пълни с витамини и минерали. </strong>Тъй като пълнозърнестите ни крекери са богати на естествени полезни вещества, те улесняват по-доброто функциониране на целия организъм и спомагат за увеличаването на енергията, усилването на метаболизма и по-добрата концентрация.</li><li><strong>С антиоксидантен ефект.</strong> Благодарение на високото съдържание на фибри, пълнозърнестите крекери стимулират естествената детоксикация и пречистване на тялото чрез работата на храносмилателната и отделителната система.</li><li><strong>По-малко гладни.</strong> Естествено редуцират прекаления апетит, а това допълнително подпомага постигането и поддържането на здравословно тегло.</li><li><strong>Полезни за храносмилането.</strong> Голямото количество фибри в пълнозърнестите крекери стимулират правилното функциониране на храносмилателната система и намаляват риска от запек.</li><li><strong>Действат като естествен пребиотик.</strong> Пълнозърнестите крекери помагат за поддържането на здравословна чревна микрофлора, като подхранват полезните чревни бактерии, които са ключов фактор за доброто храносмилане.</li></ul>"
+          }
+        ],
+        "related": [
+          "organic-rye-sticks-wholegrain",
+          "organic-wholegrain-spelt-sticks",
+          "organic-einkorn-sticks-wholegrain"
+        ],
+        "backgrounds": []
+      }
+    }
+  ]
+}

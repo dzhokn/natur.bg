@@ -1,0 +1,77 @@
+[
+  {
+    "route": "/products/",
+    "text": "Read more",
+    "reason": "Crackers card label on the live page is lowercase \"Read more\"; the build uses \"Read More\" on all five cards, with the visually hidden product suffix."
+  },
+  {
+    "route": "/contact/",
+    "text": "I consent to Natur.bg's Privacy Policy.",
+    "reason": "Contact Form 7 acceptance checkbox label; the form is replaced by direct email and phone links (D3)."
+  },
+  {
+    "route": "/privacy-policy/",
+    "text": "When you visit our \"Website\", the server automatically stores the data your browser sends as: browser type / version, operating system, platform, and IP address that is used. This data cannot be assigned to a particular person and thus do not allow the user to be identified. The storage of this data is for systematic and statistical purposes. Linking this data to other sources of information through which data can be linked to a person is not taken. We may use cookies to collect certain information about the use of the \"Website\" when accessing, browsing, and using the \"Website\". A cookie is a data file that is placed on a computer or mobile device used to visit websites. We do not allow third parties to upload cookies to your device. To learn more about cookies and similar tools that are used by, please review our Cookies Policy. You may choose to send us your personal data or other information through the various channels provided on the \"Website\", such as e-mail addresses, phone numbers or online queries. Users can visit most pages of this site without revealing who they are and without providing information about themselves. However, some of our interactive services require users to identify themselves to make an online inquiry to us.",
+    "reason": "Paragraph embeds Contact Form 7 / online-form or direct Google Analytics wording; the affected sentences carry data-replaced (A11), the remaining sentences are kept verbatim as separate paragraphs."
+  },
+  {
+    "route": "/privacy-policy/",
+    "text": "We may collect information about your use of the \"Website\", IP address, browser type, platform, and operating system using the cookies specified in our Cookies Policy.",
+    "reason": "Paragraph embeds Contact Form 7 / online-form or direct Google Analytics wording; the affected sentences carry data-replaced (A11), the remaining sentences are kept verbatim as separate paragraphs."
+  },
+  {
+    "route": "/privacy-policy/",
+    "text": "In case of an online inquiry through the \"Website\", Natur BG Ltd. may ask you for the following personal information:",
+    "reason": "Paragraph embeds Contact Form 7 / online-form or direct Google Analytics wording; the affected sentences carry data-replaced (A11), the remaining sentences are kept verbatim as separate paragraphs."
+  },
+  {
+    "route": "/privacy-policy/",
+    "text": "This \"Website\" collects personal data for processing, use, and storage that you have voluntarily provided, such as through our online inquiries on our \"Website\" or other channels of contact with us. In this respect, any such data sharing action will be deemed to be explicit consent to the collection, storage and processing of these data for the purposes and for the time limits established by this Statement.",
+    "reason": "Paragraph embeds Contact Form 7 / online-form or direct Google Analytics wording; the affected sentences carry data-replaced (A11), the remaining sentences are kept verbatim as separate paragraphs."
+  },
+  {
+    "route": "/cookie-policy/",
+    "text": "WordPress: https://wordpress.org/support/article/cookies/",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/cookie-policy/",
+    "text": "Google Analytics: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/cookie-policy/",
+    "text": "Cookie notice plugin: https://wordpress.org/plugins/cookie-notice/",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/bg/kontakti/",
+    "text": "Запознат/а съм с Политиката за поверителност на Natur.bg.",
+    "reason": "Contact Form 7 acceptance checkbox label; the form is replaced by direct email and phone links (D3)."
+  },
+  {
+    "route": "/bg/politika-za-lichni-danni/",
+    "text": "обработване на запитване посредством нашата онлайн форма;Обработването на Вашите лични данни за тези цели е необходимо за сключването и изпълнението на договор между Вас и Дружеството. Освен това, за изпълнението на тези цели се изисква обработване съгласно приложимите законови разпоредби на територията на Република България, включително данъчното и счетоводното законодателство.",
+    "reason": "Paragraph embeds Contact Form 7 / online-form or direct Google Analytics wording; the affected sentences carry data-replaced (A11), the remaining sentences are kept verbatim as separate paragraphs."
+  },
+  {
+    "route": "/bg/politika-za-biskvitki/",
+    "text": "WordPress: https://wordpress.org/support/article/cookies/",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/bg/politika-za-biskvitki/",
+    "text": "Google Analytics: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/bg/politika-za-biskvitki/",
+    "text": "Cookie notice plugin: https://wordpress.org/plugins/cookie-notice/",
+    "reason": "Cookie-list entry for WordPress/WPML, Google Analytics direct or Cookie Notice cookies; replaced by factual natur_consent and Zaraz clauses (data-replaced, A11)."
+  },
+  {
+    "route": "/bg/politika-za-biskvitki/",
+    "text": "В съответствие с Директива 2002/58 на Европейския парламент и на Съвета от 12 юли 2002 година относно обработката на лични данни и защита на правото на неприкосновеност на личния живот в сектора на електронните комуникации Натюр БГ информира потребителите за използваните бисквитки на уеб сайта. За използването на посочените по-горе бисквитки не е необходимо да се изисква изричното съгласие на потребителите.",
+    "reason": "Clause claims no consent is needed for the listed cookies; replaced together with the cookie list (data-replaced, A11) because analytics now run only after Allow."
+  }
+]
